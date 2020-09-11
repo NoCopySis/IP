@@ -1093,3 +1093,1161 @@ http://rm.market.ru/hdd/ostalo/filmovisaprevodom/Who%20Am%20I%20%c2%96%20Kein%20
 http://rm.market.ru/hdd/ostalo/filmovisaprevodom/Wind%20River.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wolf.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi sa prevodom ::", Wolf.mp4
 http://rm.market.ru/hdd/ostalo/filmovisaprevodom/Wolf.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS 1
+http://mobilesvet.gcdn.co/rts1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS 2
+http://mobilesvet.gcdn.co/rts2/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS 3
+http://mobilesvet.gcdn.co/rts3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PINK
+http://mobilesvet.gcdn.co/pink/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B92" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", B92
+http://mobilesvet.gcdn.co/b92/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HAPPY" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", HAPPY
+http://mobilesvet.gcdn.co/happy/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRVA" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PRVA
+http://mobilesvet.gcdn.co/prva/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTV 1
+http://mobilesvet.gcdn.co/rtv1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTV 2
+http://mobilesvet.gcdn.co/rtv2/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AMC
+http://mobilesvet.gcdn.co/amc/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AXN
+http://mobilesvet.gcdn.co/axn/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1000" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV1000
+http://mobilesvet.gcdn.co/viasattv1000/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Klub" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Film Klub
+http://mobilesvet.gcdn.co/filmklub/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="K1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", K1
+http://mobilesvet.gcdn.co/k1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Adria" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MTV Adria
+http://mobilesvet.gcdn.co/mtvadria/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Europe" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", VH1 Europe
+http://mobilesvet.gcdn.co/vh1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toxic TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Toxic TV
+http://mobilesvet.gcdn.co/toxic/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk Melody" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Folk Melody
+http://mobilesvet.gcdn.co/folkmelody/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hits Melody" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Hits Melody
+http://mobilesvet.gcdn.co/hitsmelody/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ExYu Melody" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ExYu Melody
+http://mobilesvet.gcdn.co/exyumelody/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRVA MAX" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PRVA MAX
+http://mobilesvet.gcdn.co/prvamax/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRVA KICK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PRVA KICK
+http://mobilesvet.gcdn.co/prvakick/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRVA WORLD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PRVA WORLD
+http://mobilesvet.gcdn.co/b92info/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRVA FILES" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PRVA FILES
+http://mobilesvet.gcdn.co/prvafiles/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRVA LIFE" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PRVA LIFE
+http://mobilesvet.gcdn.co/prvalife/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Viasat Explore
+http://mobilesvet.gcdn.co/viasatexplore/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Viasat Nature
+http://mobilesvet.gcdn.co/viasatnature/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Viasat History
+http://mobilesvet.gcdn.co/viasathistory/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", National Geographic
+http://mobilesvet.gcdn.co/natgeo/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", National Geographic Wild
+http://mobilesvet.gcdn.co/natgeowild/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", History 2
+http://mobilesvet.gcdn.co/history2/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Da Vinci Learning
+http://mobilesvet.gcdn.co/davincilearning/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Trip" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Balkan Trip
+http://mobilesvet.gcdn.co/balkantrip/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Disney Junior
+http://mobilesvet.gcdn.co/disneyjunior/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Boomerang
+http://mobilesvet.gcdn.co/boomerang/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Cartoon Network
+http://mobilesvet.gcdn.co/cartoonnetwork/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Nickelodeon
+http://mobilesvet.gcdn.co/nickelodeon/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MiniMax" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MiniMax
+http://mobilesvet.gcdn.co/minimax/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", JimJam
+http://mobilesvet.gcdn.co/jimjam/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kazbuka" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kazbuka
+http://mobilesvet.gcdn.co/kazbuka/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Agro TV
+http://mobilesvet.gcdn.co/agrotv/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dr TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dr TV
+http://mobilesvet.gcdn.co/dr/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS SVET HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS SVET HD
+https://rts-live.morescreens.com/RTS_1_014/playlist.m3u8?video_id=16889&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS HD
+https://rts-live.morescreens.com/RTS_1_015/playlist.m3u8?video_id=16887&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS 1 HD
+https://rts-live.morescreens.com/RTS_1_001/playlist.m3u8?video_id=5&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS 2 HD
+https://rts-live.morescreens.com/RTS_1_002/playlist.m3u8?video_id=4&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS 3 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS 3 HD
+http://rts-live.morescreens.com/RTS_1_013/playlist.m3u8?video_id=2&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS Nauka HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS Nauka HD
+https://rts-live.morescreens.com/RTS_1_015/playlist.m3u8?video_id=16887&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS ZIVOT" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS ZIVOT
+https://rts-live.morescreens.com/RTS_1_006/playlist.m3u8?video_id=11&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS DRAMA" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS DRAMA
+https://rts-live.morescreens.com/RTS_1_005/playlist.m3u8?video_id=14&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS TREZOR" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS TREZOR
+https://rts-live.morescreens.com/RTS_1_004/playlist.m3u8?video_id=16&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS POLETARAC" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS POLETARAC
+https://rts-live.morescreens.com/RTS_1_008/playlist.m3u8?video_id=16883&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS MUZIKA" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS MUZIKA
+https://rts-live.morescreens.com/RTS_1_007/playlist.m3u8?video_id=8&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS KOLO" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS KOLO
+https://rts-live.morescreens.com/RTS_1_003/playlist.m3u8?video_id=16886&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="RTS Direktan prenos" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTS Direktan prenos
+https://rts-live.morescreens.com//RTS_1_016/playlist.m3u8?video_id=218325&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="MTS Vision" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MTS Vision
+https://rts-live.morescreens.com/RTS_2_001/playlist.m3u8?video_id=16886&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="(RADIO) BEOGRAD 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", (RADIO) BEOGRAD 1
+https://rts-live.morescreens.com/RTS_1_009/playlist.m3u8?video_id=15918&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="(RADIO) BEOGRAD 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", (RADIO) BEOGRAD 2
+https://rts-live.morescreens.com/RTS_1_010/playlist.m3u8?video_id=16086&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="(RADIO) BEOGRAD 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", (RADIO) BEOGRAD 3
+https://rts-live.morescreens.com/RTS_1_011/playlist.m3u8?video_id=16088&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="(RADIO) BEOGRAD 202" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", (RADIO) BEOGRAD 202
+https://rts-live.morescreens.com/RTS_1_012/playlist.m3u8?video_id=16091&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="(RADIO) RTS Pletenica" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", (RADIO) RTS Pletenica
+https://rts-live.morescreens.com/RTS_1_113/playlist.m3u8?video_id=961880&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="(RADIO) RTS Rokenroler" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", (RADIO) RTS Rokenroler
+https://rts-live.morescreens.com/RTS_1_114/playlist.m3u8?video_id=961889&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="(RADIO) RTS Džuboks" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", (RADIO) RTS Džuboks
+https://rts-live.morescreens.com/RTS_1_115/playlist.m3u8?video_id=961906&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="(RADIO) RTS Vrteška" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", (RADIO) RTS Vrteška
+https://rts-live.morescreens.com/RTS_1_116/playlist.m3u8?video_id=961950&authority_instance_id=spectar-prd-rts&token=24c88d917b5e3a9d3351faa69a3b15b07a3caf2c&detected_delivery_method=mpegdash
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik
+http://muzzik-live.morescreens.com/mts-6/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Rock&Roll" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik Rock&Roll
+http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&club" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik Cafe&club
+http://muzzik-live.morescreens.com/mts-3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik World Wide" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik World Wide
+http://muzzik-live.morescreens.com/mts-5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Jeka" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik Jeka
+http://muzzik-live.morescreens.com/mts-4/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik Mediteraneo
+http://muzzik-live.morescreens.com/mts-a5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Hip Hop" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik Hip Hop
+http://muzzik-live.morescreens.com/mts-a4/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Gen Z" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik Gen Z
+http://muzzik-live.morescreens.com/mts-a2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Vision" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muzzik Vision
+http://muzzik-live.morescreens.com/mts-a3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OKK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OKK
+http://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="N1 SRB" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", N1 SRB
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="" tvg-name="N1 B&H" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", N1 B&H
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="" tvg-name="N1 HRV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", N1 HRV
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-id="" tvg-name="RT America" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RT America
+http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Documentary (English)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RT Documentary (English)
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Espanol" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RT Espanol
+http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT France" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RT France
+http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RT HD
+http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT UK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RT UK
+http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT America" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RT America
+http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kurir Tv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kurir Tv
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Balkans" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", SKY NEWS
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Australia" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Sky News Australia
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Los Angeles" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-id="" tvg-name="CBS News "USA"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CBS News "USA"
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 tvg-id="" tvg-name="RTE News Now" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Espanol" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", France 24 Espanol
+http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Francais" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", France 24 Francais
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OE 24 TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OE 24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Das Erste HD
+https://mcdn.daserste.de/daserste/int/master_3744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World TV HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NHK World TV HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24 Japan" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 24 Japan
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24BOX TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", 24BOX TV
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC Max
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC Action
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC 2
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC 5
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC Drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC Bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MBC 1
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai One*" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai One*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 tvg-id="" tvg-name="Romedy Now" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNX Movies" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MNX Movies
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nginxlive" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", nginxlive
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Thrill HD
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIX (MLY)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KIX (MLY)
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MGM SCI-FI (USA)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MGM SCI-FI (USA)
+https://mgmtheworks-roku-us.amagi.tv/roku-theworks/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Chinese" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", HBO Chinese
+http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="Film select Croatia" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Film select Croatia
+http://195.29.70.67/PLTV/88888888/224/3221226027/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox "USA"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Filmbox "USA"
+https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Arthouse "USA"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Filmbox Arthouse "USA"
+https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise Classics "USA"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Filmrise Classics "USA"
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise Crime "USA"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Filmrise Crime "USA"
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmrise Family" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Classic Movies" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Drive-in Movie" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Family Channel" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVS Family Channel
+http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Nostalgia Movies" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVS Nostalgia Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS Western Movies" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVS Western Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Premium" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rotana Cinema
+https://rotana.hibridcdn.net/rotana/cinema_mabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rotana Classic
+https://rotana.hibridcdn.net/rotana/classical_mabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rotana Comedy
+https://rotana.hibridcdn.net/rotana/comedy_mabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rotana Drama
+https://rotana.hibridcdn.net/rotana/drama_mabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rotana Kids
+https://rotana.hibridcdn.net/rotana/kids_mabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Drama" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD Drama
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Dynamics "USA"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Comedy Dynamics "USA"
+http://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mobcrush "USA"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Mobcrush "USA"
+http://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BritCom "UK"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", BritCom "UK"
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Наша Сибирь" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motorcyclist (USA)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Motorcyclist (USA)
+http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Choppertown (USA)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Choppertown (USA)
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magellan TV (USA)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Magellan TV (USA)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FailArmy "USA"" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", FailArmy "USA"
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Popular Science (USA)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Popular Science (USA)
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", The Pet Collective 1
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", The Pet Collective 2
+http://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA (USA)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", beIN SPORTS XTRA (USA)
+https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turkmenistan Sport" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Turkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel TV HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Olympic Channel TV HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: FLOW SPORTS" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", UK: FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD Sport 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD Sport 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 3 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD Sport 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 4 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD Sport 4 HD
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ALL SPORTS TV
+http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai Sports 2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVS
+http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City Music TV (BE)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", City Music TV (BE)
+http://5592f056abba8.streamlock.net:1935/citytv/citytv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City TV (BG)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", City TV (BG)
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OTV Music" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OTV Music
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="m2o tv (360p)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", m2o tv (360p)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M2O TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", M2O TV
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROM:Kiss TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ROM:Kiss TV
+http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROM:Magic TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ROM:Magic TV
+http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magic TV (ROM)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Magic TV (ROM)
+http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Javan TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Javan TV
+http://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_b2892000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits TV HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NRJ Hits TV HD
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q Music (NL)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Q Music (NL)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", POWER HD
+http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FM Italia TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", FM Italia TV
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 TV Best" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTL 102.5 TV Best
+http://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/chunklist_b2296000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD (Norge)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MTV HD (Norge)
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MU-Vi TV (BG)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MU-Vi TV (BG)
+http://edge15.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Melody Channel TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AAHO Music!!" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AAHO Music!!
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD (Norge)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MTV HD (Norge)
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One.by" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", One.by
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-id="" tvg-name="One.by HD (1080p)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", One.by HD (1080p)
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="" tvg-name="One.by HD (2160p)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", One.by HD (2160p)
+http://rtmp.one.by:1400
+#EXTINF:-1 tvg-id="" tvg-name="One.by Россия (720p)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", One.by Россия (720p)
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-id="" tvg-name="One.by Россия HD (1080p)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", One.by Россия HD (1080p)
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="" tvg-name="Hit Music (720p)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Hit Music (720p)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro Music Television (CZ)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Retro Music Television (CZ)
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OPOJA" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Africa" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRACE Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Kitoko" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRACE Kitoko
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Mziki" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRACE Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Naija" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRACE Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Toca" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRACE Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Tropical" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRACE Tropical
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Top (ARG)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Expres" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Star" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", POWER TURK HD
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OTV Music" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OTV Music
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Первый Музыкальный BY" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-id="" tvg-name="Первый Музыкальный BY [FHD]" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="" tvg-name="Первый Музыкальный BY [UHD]" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Первый Музыкальный BY [UHD]
+http://rtmp.one.by:1400
+#EXTINF:-1 tvg-id="" tvg-name="Первый Музыкальный RU BY" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-id="" tvg-name="Первый Музыкальный RU BY [FHD]" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Первый Музыкальный RU BY [FHD]
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="" tvg-name="DJing Animation" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Classics" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Classics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Dancefloor" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Electro Rock" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing French Touch" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing French Touch
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Hits" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Hits
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Hot Hot Hot" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Hot Hot Hot
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Karaoke" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Live" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Summer Vibes" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing Underground" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DJing Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMC TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CMC TV
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMC USA" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CMC USA
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Melody Channel TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Number One TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Piter Pan TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Piter Pan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Birikina TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Birikina TV
+http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Capital TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Freccia HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Freccia HD
+http://rtl-radio-stream-thron.akamaized.net/live-video/video2/video2/chunklist_b2296000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kool London" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Kool London
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio M-1 (LIT) WEB" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio M-1 (LIT) WEB
+http://m-1.data.lt/m-1/smil:m-1.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio U TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio U TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Unserding" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio Unserding
+http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZTV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Radio ZTV
+http://unlimited1-us.dps.live/radioztv/radioztv.smil/radioztv/livestream3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Steelbird Music" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit TV HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit TV [FHD]" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kronehit TV [FHD]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RU TV
+https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU TV HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RU TV HD
+http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1Music Channel (ROM)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", 1Music Channel (ROM)
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Top (ARG)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muz TV (AZ)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Muz TV (AZ)
+http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q Music (NL)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Q Music (NL)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KCN 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KCN 1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1 tvg-id="" tvg-name="KCN 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KCN 2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1 tvg-id="" tvg-name="KCN 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KCN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1 tvg-id="" tvg-name="TV Subotica" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Subotica
+http://185.20.36.4:8080/stream?sp=partners&channel=tvsubotica&stream=1mb
+#EXTINF:-1 tvg-id="" tvg-name="РТРС" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", РТРС
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РТРС Плус" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", РТРС Плус
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BN TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", BN TV
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Храм ТВ (SRB)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Храм ТВ (SRB)
+http://178.253.194.75:1935/live/hram.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hram Srbija Tv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Hram Srbija Tv
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leskovac Tv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Leskovac Tv
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1 tvg-id="" tvg-name="Tuzla Web TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Tuzla Web TV
+http://tuzlawebtv.netmedya.org:1935/tuzlawebtv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTCG Sat" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTCG Sat
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRO TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CRO TV
+http://92.204.53.152:8080/crotv/televizijahrvatskedijaspore/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HRT2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", HRT2
+http://195.29.70.67/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HRT 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HRT 4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTL
+http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NB" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NB
+http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Slavonska TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Banovina" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Banovina
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duga Plus TV (SRB)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Duga Plus TV (SRB)
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Veseljak TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Veseljak TV
+http://stream.veseljak.tv:8080/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UMAG TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", UMAG TV
+https://tls.cdnz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telma (MK)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Telma (MK)
+http://190.2.154.72:8081/tvstanici/4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV+ (MK)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV+ (MK)
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALBUK HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ALBUK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALBUK HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ALBUK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH 1
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH 2
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 24" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH 24
+http://79.106.48.2/live/rtsh_24_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH 3
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Femije" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH Femije
+http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Film" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH Film
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Muzike" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH Muzike
+http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STV 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", STV 1
+https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STV 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", STV 2
+https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOJ" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", JOJ
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOJ Family" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", JOJ Family
+https://nn.geo.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOJ Ko" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", JOJ Ko
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOJ Plus" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", JOJ Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOJ Wau" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", JOJ Wau
+https://nn.geo.joj.sk/live/hls/wau-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Life TV SK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Life TV SK
+http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praha TV HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Praha TV HD
+http://stream.polar.cz:1935/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima CZ" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Prima CZ
+http://83.167.253.110:5000/live/prima/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima Cool" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Prima Cool
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natura TV (CZ)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Natura TV (CZ)
+http://media1.tvnatura.cz/live_out/1/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Poprad TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Poprad TV
+http://84.16.37.41:1935/live/mpegts.stream_tvpoprad/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Ruzinov" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Ruzinov
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Osem (SK)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Osem (SK)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Nove Zamky" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Nove Zamky
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KOŠICE:DNES (SK)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KOŠICE:DNES (SK)
+http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Senzi TV (SK)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Senzi TV (SK)
+http://109.74.144.130/live/senzitest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Nitricka (SK)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Nitricka (SK)
+http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Nove Zamky" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Nove Zamky
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Lux" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w115255629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televízia Galanta" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Televízia Galanta
+http://213.81.153.221:8080/galanta
+#EXTINF:-1 tvg-id="" tvg-name="CETV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CETV
+http://213.81.153.221:8080/cetv
+#EXTINF:-1 tvg-id="" tvg-name="TV MANA (SK)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV MANA (SK)
+http://c2.manasat.com:1935/kostol-online/eslovaco3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RIK
+https://nn.geo.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Slagr TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Slagr TV
+http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Expres" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Star" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro Music" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1146700144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Slagr TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Slagr TV
+http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Cluj" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Craiova" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Iasi" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR Iasi
+http://89.136.209.26:1935/liveedge/TVRIASI.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Moldova" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR Moldova
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Timisoara" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Tirgu Mures" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVR Tirgu Mures
+https://mn-nl.mncdn.com/tvr_tirgumures_live/tvr_tirgumures_live2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Publika TV HD (Moldova)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Publika TV HD (Moldova)
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV Chisinau (ROM)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Pro TV Chisinau (ROM)
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV News (ROM)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Pro TV News (ROM)
+http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D (ROM)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KANAL D (ROM)
+http://livefeed.kanald.ro/iphone/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smash 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash 1080p
+http://s3.smashmalta.com:82/live/smash/smash/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash 720p
+http://s3.smashmalta.com:82/live/smash/smash/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Music 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Music 1080p
+http://s3.smashmalta.com:82/live/smash/smash/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Music 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Music 720p
+http://s3.smashmalta.com:82/live/smash/smash/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Jazz 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Jazz 1080p
+http://s3.smashmalta.com:82/live/smash/smash/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Jazz 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Jazz 720p
+http://s3.smashmalta.com:82/live/smash/smash/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Country 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Country 1080p
+http://s3.smashmalta.com:82/live/smash/smash/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Country 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Country 720p
+http://s3.smashmalta.com:82/live/smash/smash/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Shop Channel 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Shop Channel 1080p
+http://s3.smashmalta.com:82/live/smash/smash/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Shop Channel 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Shop Channel 720p
+http://s3.smashmalta.com:82/live/smash/smash/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Food 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Food 1080p
+http://s3.smashmalta.com:82/live/smash/smash/15.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Food 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Food 720p
+http://s3.smashmalta.com:82/live/smash/smash/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Sports 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Sports 1080p
+http://s3.smashmalta.com:82/live/smash/smash/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Sports 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Sports 720p
+http://s3.smashmalta.com:82/live/smash/smash/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Politika 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Politika 1080p
+http://s3.smashmalta.com:82/live/smash/smash/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Politika 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Politika 720p
+http://s3.smashmalta.com:82/live/smash/smash/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash 7 News 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash 7 News 1080p
+http://s3.smashmalta.com:82/live/smash/smash/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash 7 News 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash 7 News 720p
+http://s3.smashmalta.com:82/live/smash/smash/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Retro 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Retro 1080p
+http://s3.smashmalta.com:82/live/smash/smash/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Retro 720P" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Retro 720P
+http://s3.smashmalta.com:82/live/smash/smash/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Entertainment 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Entertainment 1080p
+http://s3.smashmalta.com:82/live/smash/smash/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Entertainment 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Entertainment 720p
+http://s3.smashmalta.com:82/live/smash/smash/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash House of Rock 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash House of Rock 720p
+http://s3.smashmalta.com:82/live/smash/smash/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Cam 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Cam 1080p
+http://s3.smashmalta.com:82/live/smash/smash/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Cam 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Cam 720p
+http://s3.smashmalta.com:82/live/smash/smash/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Explore 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Explore 1080p
+http://s3.smashmalta.com:82/live/smash/smash/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Explore 720P" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Explore 720P
+http://s3.smashmalta.com:82/live/smash/smash/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash House of Rock 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash House of Rock 1080p
+http://s3.smashmalta.com:82/live/smash/smash/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="Erga Lura 1080p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Erga Lura 1080p
+http://s3.smashmalta.com:82/live/smash/smash/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="The River Christian Channel 720p" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", The River Christian Channel 720p
+http://s3.smashmalta.com:82/live/smash/smash/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTU 1080P" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MTU 1080P
+http://s3.smashmalta.com:82/live/smash/smash/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smash Radio" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Smash Radio
+http://s3.smashmalta.com:82/live/smash/smash/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock Radio" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rock Radio
+http://s3.smashmalta.com:82/live/smash/smash/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="Retro Radio" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Retro Radio
+http://s3.smashmalta.com:82/live/smash/smash/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alternative Radio" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Alternative Radio
+http://s3.smashmalta.com:82/live/smash/smash/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVM HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVM HD
+http://s3.smashmalta.com:82/live/smash/smash/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVM 2 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVM 2 HD
+http://s3.smashmalta.com:82/live/smash/smash/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ONE HD
+http://s3.smashmalta.com:82/live/smash/smash/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="NET HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NET HD
+http://s3.smashmalta.com:82/live/smash/smash/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT Italia 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", IT Italia 1
+http://s3.smashmalta.com:82/live/smash/smash/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT Canale 5" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", IT Canale 5
+http://s3.smashmalta.com:82/live/smash/smash/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT Rete 4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", IT Rete 4
+http://s3.smashmalta.com:82/live/smash/smash/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT Rai 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", IT Rai 1
+http://s3.smashmalta.com:82/live/smash/smash/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT Rai 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", IT Rai 2
+http://s3.smashmalta.com:82/live/smash/smash/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT Rai 3" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", IT Rai 3
+http://s3.smashmalta.com:82/live/smash/smash/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT 1 HD
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT 2 HD
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT AVAZ HD
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT COCUK HD
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA TV Ilkokul" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT EBA TV Ilkokul
+https://tv-e-okul00.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA TV Lise" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT EBA TV Lise
+https://tv-e-okul02.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA TV Ortaokul" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT EBA TV Ortaokul
+https://tv-e-okul01.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT HABER HD
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT KURDI HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT KURDI HD
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT MUZIK HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT MUZIK HD
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT TURK HD
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD HD (English)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRT WORLD HD (English)
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Haber" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TGRT Haber
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KRAL HD
+http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP TV HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KRAL POP TV HD
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL WORLD TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KRAL WORLD TV
+http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", POWER HD
+http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", POWER TURK HD
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DREAM TV
+https://2122248072.dogannet.tv/NP2/DREAMTV/HLS/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TV TURK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DREAM TV TURK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1500/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV TURK HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NTV TURK HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D TURKEY" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KANAL D TURKEY
+http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 34 TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kanal 34 TV
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 38" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kanal 38
+http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 68" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kanal 68
+http://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 9" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kanal 9
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Avrupa" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kanal Avrupa
+http://51.15.10.173/hls/kanalavrupa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele M1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Tele M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleBarn" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TeleBarn
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telebasel" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BFM Paris" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", BFM Paris
+http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Francophonie 24" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gong" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Gong
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Chaine Normande" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC UK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC UK
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC +1 UK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC +1 UK
+http://live.qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Beauty UK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC Beauty UK
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Extra UK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC Extra UK
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Italia" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC Italia
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/chunklist_b4192000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Japan" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC Japan
+http://cdn-live1.qvc.jp/iPhone/QVC_PC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Style UK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC Style UK
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC (Deutsch)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC (Deutsch)
+http://live.qvcde.simplestreamcdn.com/live/qvcde_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC2 (Deutsch)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC2 (Deutsch)
+http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Style (Deutsch)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC Style (Deutsch)
+http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Channel" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", American Horror Channel
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Alternativo" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Cine Sky Alternativo
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rustavi 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rustavi 2
+http://md-store4.tulix.tv/rustavi2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 1000 Action" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV 1000 Action
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CGTN Documentary
+http://live.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD Fashion & Lifestyle [FHD]" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", HD Fashion & Lifestyle [FHD]
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID Fashion TV [FHD]" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ID Fashion TV [FHD]
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBN NEWS" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CBN NEWS
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Philippines" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CNN Philippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", CNN TURK
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 1 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 2 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 3 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD SPORT 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 4 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD SPORT 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing 2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yas Sports HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Yas Sports HD
+http://adtv.ercdn.net/yastv/yastv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turkmenistan Sport" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Turkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stream Sport (HU)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Stream Sport (HU)
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport 2U" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Sport 2U
+http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportal TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Sportal TV
+http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Channel TV HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Olympic Channel TV HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV (ENG)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Real Madrid TV (ENG)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 1 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 2 HD" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ALL SPORTS TV
+http://59f1cbe63db89.streamlock.net:1935/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ALL SPORTS TV
+http://59f1cbe63db89.streamlock.net:1935/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports TV (TURK)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Sports TV (TURK)
+http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turkmenistan Sport (Turkm)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Turkmenistan Sport (Turkm)
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 12 Bronx" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12 Bronx
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 tvg-id="" tvg-name="News 12 Brooklyn" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12 Brooklyn
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1 tvg-id="" tvg-name="News 12 Connecticut" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12 Connecticut
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+#EXTINF:-1 tvg-id="" tvg-name="News 12 Hudson Valley" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12 Hudson Valley
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+#EXTINF:-1 tvg-id="" tvg-name="News 12 Long Island" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12 Long Island
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1 tvg-id="" tvg-name="News 12 New Jersey" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12 New Jersey
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:-1 tvg-id="" tvg-name="News 12 Westchester" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12 Westchester
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+#EXTINF:-1 tvg-id="" tvg-name="News 12+ Bronx & Brooklyn" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12+ Bronx & Brooklyn
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+#EXTINF:-1 tvg-id="" tvg-name="News 12+ Connecticut" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12+ Connecticut
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+#EXTINF:-1 tvg-id="" tvg-name="News 12+ Hudson Valley" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12+ Hudson Valley
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1 tvg-id="" tvg-name="News 12+ Long Island" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12+ Long Island
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+#EXTINF:-1 tvg-id="" tvg-name="News 12+ New Jersey" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12+ New Jersey
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+#EXTINF:-1 tvg-id="" tvg-name="News 12+ Westchester" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", News 12+ Westchester
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 News (New York)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NBC 4 News (New York)
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 10 News (Philadelphia)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 11 News (Bay Area)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WBRZ 2+" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", WBRZ 2+
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WGN 9" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Weather Channel (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Weather Channel (eng)
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Weather Nation (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Weather Nation (eng)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - Panama City (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Beach TV - Panama City (eng)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - Pawleys Island (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Beach TV - Pawleys Island (eng)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kool TV (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Kool TV (eng)
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="District Knowledge Network (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", District Knowledge Network (eng)
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Three (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Three (eng)
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WVIT 30 News (Hartford)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beach TV - 30A (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Beach TV - 30A (eng)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Key TV (eng)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Key TV (eng)
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTE News Now" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="InfoWars" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSTV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVW" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVW-2" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Seminole TV (Florida)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Seminole TV (Florida)
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Orange TV (Orlando)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Orange TV (Orlando)
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noa 4 Norderstedt" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noa 4 Hamburg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tagesschau24" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVA Ostbayern" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Oberfranken" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Touring Wurzburg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Touring Wurzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4E TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", 4E TV
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Acheloos TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Acheloos TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Creta" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Creta
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vouli TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Vouli TV
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDR Fernsehen" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NDR Fernsehen
+http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="Hessischer Rundfunk" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Hessischer Rundfunk
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bayerisches Fernsehen" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Bayerisches Fernsehen
+http://livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WDR" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR Alpha" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", BR Alpha
+http://livestreams.br.de/i/bralpha_germany@119899/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Deutsche Welle
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tagesschau 24" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="oe24 TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", oe24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Allgäu.tv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Allgäu.tv
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/chunklist_w623765085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baden TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Baden TV
+http://cdn.icu.de/rtplive/btv.stream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Burgenlandkreis Regional TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Burgenlandkreis Regional TV
+http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Donau TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/chunklist_w1075019676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DorfTV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DorfTV
+http://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRF 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", DRF 1
+http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Elbekanal Schönebeck" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Elbekanal Schönebeck
+http://62.113.210.250/medienasa-live/elbe_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Franken TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Franken TV
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w343174988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Halle TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Halle TV
+http://62.113.210.250/medienasa-live/tvhalle_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hamburg1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Hamburg1
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXwbNmq/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ISAR TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", ISAR TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="InTV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", InTV
+http://ingolstadttv.iptv-playoutcenter.de:1935/ingolstadttv/ingolstadttv.stream_1/chunklist_w337734222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KabelJournal" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KabelJournal
+http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIT" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", KIT
+http://146.185.16.10:1935/kit/kitstream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leipzig TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Leipzig TV
+http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Main.Tv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Main.Tv
+http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MDF.1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", MDF.1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nasa TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Nasa TV
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOA4 Hamburg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NOA4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOA4 Norderstedt" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NOA4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRW TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", NRW TV
+http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/chunklist_w141169218_b1628000_sldeu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OKTO" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OKTO
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Dessau" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Dessau
+http://62.113.210.250/medienasa-live/ok-dessau_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Ludwigshafen" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Ludwigshafen
+http://stream-cdn.ok54.de/hls/oklu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Magedeburg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Magedeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Mainz" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Mainz
+https://stream-cdn.ok54.de/hls/oktvmainz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Merseburg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Merseburg
+http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Salzwedel" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Stendal" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Südwestpfalz" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Südwestpfalz
+http://stream-cdn.ok54.de/hls/okswp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Wernigerode" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Wernigerode
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK Wettin" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK Wettin
+http://62.113.210.250/medienasa-live/ok-wettin_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK4
+http://stream-cdn.ok54.de/hls/ok4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OK54" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", OK54
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oberpfalz TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Oberpfalz TV
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w779438037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Planai TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Planai TV
+http://62.113.221.7/gzSoftware-live/livestream_480p/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PUNKTum" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PUNKTum
+http://62.113.210.250/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PotsdamTV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", PotsdamTV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBWittenberg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RBWittenberg
+http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RFHarz" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RFHarz
+http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rfo" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rfo
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_3/chunklist_w763695377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rhein Neckar Fernsehen" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Rhein Neckar Fernsehen
+http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/chunklist_w657988848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RE1 TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RE1 TV
+http://www.reeins.tv:1935/live/re1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sylt 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Sylt 1
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRP 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TRP 1
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Berlin" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Berlin
+http://stream.der-hauptstadt-sender.de:80/hls/Themeh4g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Düsseldorf" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Düsseldorf
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Würzburg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Würzburg
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Oberfranken" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Ostbayern" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w1675264200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Touring Schweinfurt" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Touring Schweinfurt
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Touring Würzburg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Touring Würzburg
+http://tvtourings.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVO" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TVO
+http://rtmp.infomaniak.ch/livecast/tvo/chunklist_w1834948505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Aktuell" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TV Aktuell
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T1 TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", T1 TV
+https://cdn1.markenfunk.tv/t1/ngrp:live_all/chunklist_b5060608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saalbach Hinterglemm" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Saalbach Hinterglemm
+http://s1.live-panorama.com/keblivestreaming/streams/saalbach_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Westerwald TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Westerwald TV
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zell am See" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Zell am See
+http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TirolTV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", TirolTV
+http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tide TV" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Tide TV
+http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/chunklist_w1838803172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Regional Passau" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Tele Regional Passau
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Basel" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Zürich" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Tele Zürich
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele M1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", Tele M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL Tele Letzebourg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTL Tele Letzebourg
+http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 Tele Letzebourg" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", RTL 2 Tele Letzebourg
+http://live-edge01.rtl.lu/channel2/smil:channel2/chunklist_b2168000_slltz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SWR Event 1" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • IPTV-MIX ::", SWR Event 1
+http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8
