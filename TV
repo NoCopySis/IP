@@ -1,55 +1,339 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="12 Rounds (2009).mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", 12 Rounds (2009).mp4
+http://109.120.203.163/lvm/action/12%20Rounds%20(2009).mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fistfull Of Dollars  (Western 1964)  Clint Eastwood Marianne Koch &amp; José Calvo  (BR).mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", A Fistfull Of Dollars  (Western 1964)  Clint Eastwood Marianne Koch &amp; José Calvo  (BR).mp4
+http://109.120.203.163/lvm/action/A%20Fistfull%20Of%20Dollars%20%20(West%201964)%20%20Eastwood%20720p%20BrRip/A%20Fistfull%20Of%20Dollars%20%20(Western%201964)%20%20Clint%20Eastwood,%20Marianne%20Koch%20&amp;%20Jos%c3%a9%20Calvo%20%20(BR).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man 2015 1080p BluRay x264 DTS-JYK.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Ant-Man 2015 1080p BluRay x264 DTS-JYK.mkv
+http://109.120.203.163/lvm/action/Ant-Man%202015%201080p%20BluRay%20x264%20DTS-JYK/Ant-Man%202015%201080p%20BluRay%20x264%20DTS-JYK.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man.And.The.Wasp.2018.1080p.BluRay.x264-[YTS.AM].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Ant-Man.And.The.Wasp.2018.1080p.BluRay.x264-[YTS.AM].mp4
+http://109.120.203.163/lvm/action/Ant-Man%20And%20The%20Wasp%20(2018)%20%5bBluRay%5d%20%5b1080p%5d%20%5bYTS.AM%5d/Ant-Man.And.The.Wasp.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apocalypse Now (1979)1080p.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Apocalypse Now (1979)1080p.mp4
+http://109.120.203.163/lvm/action/Apocalypse%20Now%20(1979)1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloodshot.2020.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Bloodshot.2020.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv
+http://109.120.203.163/lvm/action/Bloodshot.2020.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG%5bTGx%5d/Bloodshot.2020.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boss.Level.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Boss.Level.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+http://109.120.203.163/lvm/action/Boss.Level.2020.720p.WEBRip.800MB.x264-GalaxyRG%5bTGx%5d/Boss.Level.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cruella.2021.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Cruella.2021.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/Cruella%20(2021)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Cruella.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark.Web.Cicada.3301.2021.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Dark.Web.Cicada.3301.2021.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/Dark%20Web%20Cicada%203301%20(2021)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/Dark.Web.Cicada.3301.2021.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool.2016.720p.BluRay.x264-[YTS.AG].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Deadpool.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://109.120.203.163/lvm/action/Deadpool%20(2016)%20%5bYTS.AG%5d/Deadpool.2016.720p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
+http://109.120.203.163/lvm/action/Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG/Deadpool.2.2018.Super.Duper.Cut.UNRATED.PROPER.720p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doc.Savage.The.Man.Of.Bronze.1975.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Doc.Savage.The.Man.Of.Bronze.1975.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/Doc%20Savage%20The%20Man%20Of%20Bronze%20(1975)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/Doc.Savage.The.Man.Of.Bronze.1975.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor.Strange.2016.1080p.BluRay.x264-[YTS.AG].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Doctor.Strange.2016.1080p.BluRay.x264-[YTS.AG].mp4
+http://109.120.203.163/lvm/action/Doctor%20Strange%20(2016)%20%5b1080p%5d%20%5bYTS.AG%5d/Doctor.Strange.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Falling.Down.1993.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Falling.Down.1993.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Falling%20Down%20(1993)/Falling.Down.1993.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For a Few Dollars More (1965) 720p.BRrip.Sujaidr (pimprg).mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", For a Few Dollars More (1965) 720p.BRrip.Sujaidr (pimprg).mkv
+http://109.120.203.163/lvm/action/For%20a%20Few%20Dollars%20More%20(1965)%20720p.BRrip.Sujaidr%20(pimprg)/For%20a%20Few%20Dollars%20More%20(1965)%20720p.BRrip.Sujaidr%20(pimprg).mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greenland.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Greenland.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+http://109.120.203.163/lvm/action/Greenland.2020.720p.WEBRip.800MB.x264-GalaxyRG%5bTGx%5d/Greenland.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Iron.Man.2008.1080p.BluRay.x264.AAC.5.1-POOP.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Iron.Man.2008.1080p.BluRay.x264.AAC.5.1-POOP.mp4
+http://109.120.203.163/lvm/action/Iron.Man.1-3.Trilogy.2008-2013.1080p.BluRay.x264.AAC.5.1-POOP/1.Iron.Man.2008.1080p.BluRay.x264.AAC.5.1-POOP/Iron.Man.2008.1080p.BluRay.x264.AAC.5.1-POOP.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man.2.2010.1080p.BluRay.x264.AAC.5.1-POOP.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Iron Man.2.2010.1080p.BluRay.x264.AAC.5.1-POOP.mp4
+http://109.120.203.163/lvm/action/Iron.Man.1-3.Trilogy.2008-2013.1080p.BluRay.x264.AAC.5.1-POOP/2.Iron%20Man.2.2010.1080p.BluRay.x264.AAC.5.1-POOP/Iron%20Man.2.2010.1080p.BluRay.x264.AAC.5.1-POOP.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron.Man.3.2013.1080p.BluRay.x264.AAC.5.1-POOP.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Iron.Man.3.2013.1080p.BluRay.x264.AAC.5.1-POOP.mp4
+http://109.120.203.163/lvm/action/Iron.Man.1-3.Trilogy.2008-2013.1080p.BluRay.x264.AAC.5.1-POOP/3.Iron.Man.3.2013.1080p.BluRay.x264.AAC.5.1-POOP/Iron.Man.3.2013.1080p.BluRay.x264.AAC.5.1-POOP.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2008.720p.BrRip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Iron Man 2008.720p.BrRip.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Iron.Man.1-3.Trilogy.2008-2013.1080p.BluRay.x264.AAC.5.1-POOP/Iron%20Man%20(2008)/Iron%20Man%202008.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron.Man.II.x264.720p.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Iron.Man.II.x264.720p.mkv
+http://109.120.203.163/lvm/action/Iron.Man.1-3.Trilogy.2008-2013.1080p.BluRay.x264.AAC.5.1-POOP/Iron%20Man%202%20(2010)/Iron.Man.II.x264.720p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Iron.Man.3.2013.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Iron.Man.3.2013.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Iron.Man.1-3.Trilogy.2008-2013.1080p.BluRay.x264.AAC.5.1-POOP/Iron%20Man%203%20(2013)/Iron.Man.3.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jungle.Cruise.2021.1080p.WEBRip.x264-RARBG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Jungle.Cruise.2021.1080p.WEBRip.x264-RARBG.mp4
+http://109.120.203.163/lvm/action/Jungle.Cruise.2021.1080p.WEBRip.x264-RARBG/Jungle.Cruise.2021.1080p.WEBRip.x264-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman.The.Golden.Circle.2017.1080p.BluRay.x264-[YTS.AG].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Kingsman.The.Golden.Circle.2017.1080p.BluRay.x264-[YTS.AG].mp4
+http://109.120.203.163/lvm/action/Kingsman%20The%20Golden%20Circle%20(2017)%20%5b1080p%5d%20%5bYTS.AG%5d/Kingsman.The.Golden.Circle.2017.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman.The.Secret.Service.2014.1080p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Kingsman.The.Secret.Service.2014.1080p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Kingsman%20The%20Secret%20Service%20(2014)%20%5b1080p%5d/Kingsman.The.Secret.Service.2014.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mad.Max.1979.1080p.BRrip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Mad.Max.1979.1080p.BRrip.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Mad%20Max%20(1979)%20%5b1080p%5d/Mad.Max.1979.1080p.BRrip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memento.2000.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Memento.2000.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Memento%20(2000)/Memento.2000.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monsters.of.Man.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Monsters.of.Man.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+http://109.120.203.163/lvm/action/Monsters.of.Man.2020.720p.WEBRip.800MB.x264-GalaxyRG%5bTGx%5d/Monsters.of.Man.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Natural.Born.Killers.1994.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Natural.Born.Killers.1994.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Natural%20Born%20Killers%20(1994)/Natural.Born.Killers.1994.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nobody.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Nobody.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/Nobody%20(2021)%20%5b1080p%5d%20%5bWEBRip%5d%20%5b5.1%5d%20%5bYTS.MX%5d/Nobody.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pig.Hunt.2008.720p.BDRip.Rus.Eng.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Pig.Hunt.2008.720p.BDRip.Rus.Eng.mkv
+http://109.120.203.163/lvm/action/Pig.Hunt.2008.720p.BDRip.Rus.Eng.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pirates.of.the.Caribbean.At.Worlds.End.2007.720p.BrRip.x264.Deceit.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Pirates.of.the.Caribbean.At.Worlds.End.2007.720p.BrRip.x264.Deceit.YIFY.mp4
+http://109.120.203.163/lvm/action/Pirates%20of%20the%20Caribbean%20-%20At%20Worlds%20End%20(2007)/Pirates.of.the.Caribbean.At.Worlds.End.2007.720p.BrRip.x264.Deceit.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.2003.720p.BrRip.x264.Deceit.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.2003.720p.BrRip.x264.Deceit.YIFY.mp4
+http://109.120.203.163/lvm/action/Pirates%20of%20the%20Caribbean%20-%20Curse%20of%20the%20Black%20Pearl%20(2003)/Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.2003.720p.BrRip.x264.Deceit.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.720p.BrRip.x264.Deceit.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.720p.BrRip.x264.Deceit.YIFY.mp4
+http://109.120.203.163/lvm/action/Pirates%20of%20the%20Caribbean%20-%20Dead%20Man's%20Chest%20(2006)/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.720p.BrRip.x264.Deceit.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates.of.the.Caribbean.On.Stranger.Tides.2011.720p.BrRip.x264.Deceit.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Pirates.of.the.Caribbean.On.Stranger.Tides.2011.720p.BrRip.x264.Deceit.YIFY.mp4
+http://109.120.203.163/lvm/action/Pirates%20of%20the%20Caribbean%20-%20On%20Stranger%20Tides%20(2011)/Pirates.of.the.Caribbean.On.Stranger.Tides.2011.720p.BrRip.x264.Deceit.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates.Of.The.Caribbean.Dead.Men.Tell.No.Tales.2017.720p.BluRay.x264-[YTS.AG].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Pirates.Of.The.Caribbean.Dead.Men.Tell.No.Tales.2017.720p.BluRay.x264-[YTS.AG].mp4
+http://109.120.203.163/lvm/action/Pirates%20Of%20The%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20(2017)%20%5bYTS.AG%5d/Pirates.Of.The.Caribbean.Dead.Men.Tell.No.Tales.2017.720p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shadow.In.The.Cloud.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Shadow.In.The.Cloud.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/Shadow%20In%20The%20Cloud%20(2020)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Shadow.In.The.Cloud.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Holmes 2009.720p.BrRip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Sherlock Holmes 2009.720p.BrRip.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Sherlock%20Holmes%20(2009)/Sherlock%20Holmes%202009.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock.Holmes.A.Game.Of.Shadows.2011.720p.BrRip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Sherlock.Holmes.A.Game.Of.Shadows.2011.720p.BrRip.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/Sherlock%20Holmes%20A%20Game%20Of%20Shadows%20(2011)/Sherlock.Holmes.A.Game.Of.Shadows.2011.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky.Sharks.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Sky.Sharks.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/Sky%20Sharks%20(2020)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/Sky.Sharks.2020.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starsky And Hutch - Ben Stiller Comedy 2004 Eng Subs 1080p [H264-mp4].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Starsky And Hutch - Ben Stiller Comedy 2004 Eng Subs 1080p [H264-mp4].mp4
+http://109.120.203.163/lvm/action/Starsky%20And%20Hutch%20-%20Ben%20Stiller%20Comedy%202004%20Eng%20Subs%201080p%20%5bH264-mp4%5d/Starsky%20And%20Hutch%20-%20Ben%20Stiller%20Comedy%202004%20Eng%20Subs%201080p%20%5bH264-mp4%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenet.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Tenet.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/Tenet%20(2020)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/Tenet.2020.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Love.Factor.1969.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Love.Factor.1969.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/The%20Love%20Factor%20(1969)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/The.Love.Factor.1969.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Private.Life.of.Sherlock.Holmes.1970.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Private.Life.of.Sherlock.Holmes.1970.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/action/The%20Private%20Life%20of%20Sherlock%20Holmes%20(1970)/The.Private.Life.of.Sherlock.Holmes.1970.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Survivalist.2021.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Survivalist.2021.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/action/The%20Survivalist%20(2021)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/The.Survivalist.2021.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the.good.the.bad.and.the.ugly.1966.720p.bluray.x264-sample.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", the.good.the.bad.and.the.ugly.1966.720p.bluray.x264-sample.mkv
+http://109.120.203.163/lvm/action/The.Good.the.Bad.and.the.Ugly.1966.720p.BluRay.x264-NeZu/Sample/the.good.the.bad.and.the.ugly.1966.720p.bluray.x264-sample.mkv
+#EXTINF:-1 tvg-id="" tvg-name="the.good.the.bad.and.the.ugly.1966.720p.bluray.x264-nezu.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", the.good.the.bad.and.the.ugly.1966.720p.bluray.x264-nezu.mkv
+http://109.120.203.163/lvm/action/The.Good.the.Bad.and.the.Ugly.1966.720p.BluRay.x264-NeZu/the.good.the.bad.and.the.ugly.1966.720p.bluray.x264-nezu.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Suicide.Squad.2021.1080p.WEBRip.x264-RARBG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Suicide.Squad.2021.1080p.WEBRip.x264-RARBG.mp4
+http://109.120.203.163/lvm/action/The.Suicide.Squad.2021.1080p.WEBRip.x264-RARBG/The.Suicide.Squad.2021.1080p.WEBRip.x264-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom.Let.There.Be.Carnage.2021.720p.HD-TS.HQ-C1NEM4.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Venom.Let.There.Be.Carnage.2021.720p.HD-TS.HQ-C1NEM4.mkv
+http://109.120.203.163/lvm/action/Venom.Let.There.Be.Carnage.2021.720p.HD-TS.HQ-C1NEM4%5bTGx%5d/Venom.Let.There.Be.Carnage.2021.720p.HD-TS.HQ-C1NEM4.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venom.2018.1080p.HDRip.X264-EVO.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Venom.2018.1080p.HDRip.X264-EVO.mkv
+http://109.120.203.163/lvm/action/www.torrenting.com%20%20-%20Venom.2018.1080p.HDRip.X264-EVO/Venom.2018.1080p.HDRip.X264-EVO.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Great Expectations 2012 720p BRRip x264-PLAYNOW.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Great Expectations 2012 720p BRRip x264-PLAYNOW.mp4
+http://109.120.203.163/lvm/drama/%5b%20www.UsaBit.com%20%5d%20-%20Great%20Expectations%202012%20720p%20BRRip%20x264-PLAYNOW.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Safe.Place.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", A.Safe.Place.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/drama/A%20Safe%20Place%20(2020)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/A.Safe.Place.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American.Psycho.2000.720p.BRRip.x264.AAC-ETRG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", American.Psycho.2000.720p.BRRip.x264.AAC-ETRG.mp4
+http://109.120.203.163/lvm/drama/American.Psycho.2000.720p.BRRip.x264.AAC-ETRG/American.Psycho.2000.720p.BRRip.x264.AAC-ETRG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad.Boy.Bubby.1993.DVDRIP.X264.AAC.DiRTYBURGER.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Bad.Boy.Bubby.1993.DVDRIP.X264.AAC.DiRTYBURGER.mkv
+http://109.120.203.163/lvm/drama/Bad.Boy.Bubby.1993.DVDRIP.X264.AAC.DiRTYBURGER/Bad.Boy.Bubby.1993.DVDRIP.X264.AAC.DiRTYBURGER.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad.Boy.Bubby.1993.DVDRIP.X264.AAC.DiRTYBURGER.Sample.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Bad.Boy.Bubby.1993.DVDRIP.X264.AAC.DiRTYBURGER.Sample.mkv
+http://109.120.203.163/lvm/drama/Bad.Boy.Bubby.1993.DVDRIP.X264.AAC.DiRTYBURGER/Bad.Boy.Bubby.1993.DVDRIP.X264.AAC.DiRTYBURGER.Sample.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barry Lyndon  (Adventure 1975)  Ryan O'Neal Marisa Berenson &amp; Patrick Magee  (BR).mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Barry Lyndon  (Adventure 1975)  Ryan O'Neal Marisa Berenson &amp; Patrick Magee  (BR).mp4
+http://109.120.203.163/lvm/drama/Barry%20Lyndon%20%20(Adventure%201975)%20%20R.%20O'Neal%20%20720p%20%20BrRip/Barry%20Lyndon%20%20(Adventure%201975)%20%20Ryan%20O'Neal,%20Marisa%20Berenson%20&amp;%20Patrick%20Magee%20%20(BR).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Concrete.Plans.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Concrete.Plans.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/drama/Concrete%20Plans%20(2020)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Concrete.Plans.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freaks  (Drama 1932)  Wallace Ford Leila Hyams &amp; Olga Baclanova.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Freaks  (Drama 1932)  Wallace Ford Leila Hyams &amp; Olga Baclanova.mp4
+http://109.120.203.163/lvm/drama/Freaks%20%20(Drama%201932)%20%20Wallace%20Ford%20%20720p/Freaks%20%20(Drama%201932)%20%20Wallace%20Ford,%20Leila%20Hyams%20&amp;%20Olga%20Baclanova.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sample.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Sample.mp4
+http://109.120.203.163/lvm/drama/Freaks%20%20(Drama%201932)%20%20Wallace%20Ford%20%20720p/Sample.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Great.Expectations.1946.720p.Bluray.x264.anoXmous.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Great.Expectations.1946.720p.Bluray.x264.anoXmous.mp4
+http://109.120.203.163/lvm/drama/Great.Expectations.1946.720p.Bluray.x264.anoXmous/Great.Expectations.1946.720p.Bluray.x264.anoXmous.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Greyhound.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Greyhound.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+http://109.120.203.163/lvm/drama/Greyhound%20(2020)%20%5b1080p%5d%20%5bWEBRip%5d%20%5b5.1%5d%20%5bYTS.MX%5d/Greyhound.2020.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heathers.1988.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Heathers.1988.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/Heathers%20(1988)/Heathers.1988.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horsehead.2014.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Horsehead.2014.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/Horsehead%20(2014)/Horsehead.2014.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maggie's.Plan.2015.720p.BluRay.x264-[YTS.NZ].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Maggie's.Plan.2015.720p.BluRay.x264-[YTS.NZ].mp4
+http://109.120.203.163/lvm/drama/Maggie's%20Plan%20(2015)/Maggie's.Plan.2015.720p.BluRay.x264-%5bYTS.NZ%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maigret's.Dead.Man.2016.1080p.BluRay.x264-[YTS.AG].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Maigret's.Dead.Man.2016.1080p.BluRay.x264-[YTS.AG].mp4
+http://109.120.203.163/lvm/drama/Maigret's%20Dead%20Man%20(2016)%20%5b1080p%5d%20%5bYTS.AG%5d/Maigret's.Dead.Man.2016.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulholland Drive (2001) 720p ~ Rips4u.com.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Mulholland Drive (2001) 720p ~ Rips4u.com.mp4
+http://109.120.203.163/lvm/drama/Mulholland%20Drive%20(2001)%20720p%20~%20Rips4u.com.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisoners.of.the.Ghostland.2021.1080p.WEBRip.x264-RARBG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Prisoners.of.the.Ghostland.2021.1080p.WEBRip.x264-RARBG.mp4
+http://109.120.203.163/lvm/drama/Prisoners.of.the.Ghostland.2021.1080p.WEBRip.x264-RARBG/Prisoners.of.the.Ghostland.2021.1080p.WEBRip.x264-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pulp.Fiction.1994.720p.BrRip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Pulp.Fiction.1994.720p.BrRip.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/Pulp%20Fiction%20(1994)/Pulp.Fiction.1994.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rain.Man.Br.YIFY.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Rain.Man.Br.YIFY.mkv
+http://109.120.203.163/lvm/drama/Rain%20Man%20(1988)/Rain.Man.Br.YIFY.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ravagers 1979 720p WEB-DL AAC2 0 H264-FGT.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Ravagers 1979 720p WEB-DL AAC2 0 H264-FGT.mkv
+http://109.120.203.163/lvm/drama/Ravagers%201979%20720p%20WEB-DL%20AAC2%200%20H264-FGT/Ravagers%201979%20720p%20WEB-DL%20AAC2%200%20H264-FGT.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ready.or.Not.2019.720p.BluRay.800MB.x264-GalaxyRG.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Ready.or.Not.2019.720p.BluRay.800MB.x264-GalaxyRG.mkv
+http://109.120.203.163/lvm/drama/Ready.or.Not.2019.720p.BluRay.800MB.x264-GalaxyRG%5bTGx%5d/Ready.or.Not.2019.720p.BluRay.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red.2010.720p.BrRip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Red.2010.720p.BrRip.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/Red%20(2010)/Red.2010.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red.2.2013.1080p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Red.2.2013.1080p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/Red%202%20(2013)%20%5b1080p%5d/Red.2.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Requiem.For.A.Dream.2000.DC.1080p.BluRay.x264.anoXmous_.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Requiem.For.A.Dream.2000.DC.1080p.BluRay.x264.anoXmous_.mp4
+http://109.120.203.163/lvm/drama/Requiem.For.A.Dream.2000.DC.1080p.BluRay.x264.anoXmous/Requiem.For.A.Dream.2000.DC.1080p.BluRay.x264.anoXmous_.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rope [1948] 720p BRRip H264 AC3 - CODY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Rope [1948] 720p BRRip H264 AC3 - CODY.mp4
+http://109.120.203.163/lvm/drama/Rope%20%5b1948%5d%20720p%20BRRip%20H264%20AC3%20-%20CODY/Rope%20%5b1948%5d%20720p%20BRRip%20H264%20AC3%20-%20CODY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="se7en.1995.remastered.720p.bluray.x264.YIFY.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", se7en.1995.remastered.720p.bluray.x264.YIFY.mkv
+http://109.120.203.163/lvm/drama/Se7en%20(1995)/se7en.1995.remastered.720p.bluray.x264.YIFY.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Songbird.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Songbird.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+http://109.120.203.163/lvm/drama/Songbird%20(2020)%20%5b1080p%5d%20%5bWEBRip%5d%20%5b5.1%5d%20%5bYTS.MX%5d/Songbird.2020.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soylent.Green.1973.720p.BRRip.x264-x0r.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Soylent.Green.1973.720p.BRRip.x264-x0r.mkv
+http://109.120.203.163/lvm/drama/Soylent.Green.1973.720p.BRRip.x264-x0r/Soylent.Green.1973.720p.BRRip.x264-x0r.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TaxiDriver720pmkv.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", TaxiDriver720pmkv.mkv
+http://109.120.203.163/lvm/drama/Taxi%20Driver%20(1976)/TaxiDriver720pmkv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="teenage.kicks.2016.dvdrip.x264-redblade-sample.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", teenage.kicks.2016.dvdrip.x264-redblade-sample.mkv
+http://109.120.203.163/lvm/drama/Teenage.Kicks.2016.DVDRip.x264-RedBlade%5bEtMovies%5d/Sample/teenage.kicks.2016.dvdrip.x264-redblade-sample.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teenage.Kicks.2016.DVDRip.x264-RedBlade[EtMovies].mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Teenage.Kicks.2016.DVDRip.x264-RedBlade[EtMovies].mkv
+http://109.120.203.163/lvm/drama/Teenage.Kicks.2016.DVDRip.x264-RedBlade%5bEtMovies%5d/Teenage.Kicks.2016.DVDRip.x264-RedBlade%5bEtMovies%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Breakfast.Club.1985.720p.BrRip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Breakfast.Club.1985.720p.BrRip.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/The%20Breakfast%20Club%20(1985)/The.Breakfast.Club.1985.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Death.Of.Stalin.2017.720p.BluRay.x264-[YTS.AM].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Death.Of.Stalin.2017.720p.BluRay.x264-[YTS.AM].mp4
+http://109.120.203.163/lvm/drama/The%20Death%20Of%20Stalin%20(2017)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/The.Death.Of.Stalin.2017.720p.BluRay.x264-%5bYTS.AM%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/The%20Grand%20Budapest%20Hotel%20(2014)/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Last.Bus.2021.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Last.Bus.2021.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/drama/The%20Last%20Bus%20(2021)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/The.Last.Bus.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Machinist.2004.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Machinist.2004.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/The%20Machinist%20(2004)/The.Machinist.2004.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Whisperer.in.Darkness.2011.1080p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Whisperer.in.Darkness.2011.1080p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/drama/The%20Whisperer%20in%20Darkness%20(2011)%20%5b1080p%5d/The.Whisperer.in.Darkness.2011.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Wolf of Wall Street 2013 720p BluRay x264 AAC - Ozlem.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The Wolf of Wall Street 2013 720p BluRay x264 AAC - Ozlem.mp4
+http://109.120.203.163/lvm/drama/The%20Wolf%20of%20Wall%20Street%202013%20720p%20BluRay%20x264%20AAC%20-%20Ozlem/The%20Wolf%20of%20Wall%20Street%202013%20720p%20BluRay%20x264%20AAC%20-%20Ozlem.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Art.of.Self.Defense.2019.720p.BluRay.H264.AAC-RARBG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Art.of.Self.Defense.2019.720p.BluRay.H264.AAC-RARBG.mp4
+http://109.120.203.163/lvm/drama/The.Art.of.Self.Defense.2019.720p.BluRay.H264.AAC-RARBG/The.Art.of.Self.Defense.2019.720p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RARBG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", RARBG.mp4
+http://109.120.203.163/lvm/drama/The.Canterbury.Tales.1972.720p.BluRay.H264.AAC-RARBG/RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Canterbury.Tales.1972.720p.BluRay.H264.AAC-RARBG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Canterbury.Tales.1972.720p.BluRay.H264.AAC-RARBG.mp4
+http://109.120.203.163/lvm/drama/The.Canterbury.Tales.1972.720p.BluRay.H264.AAC-RARBG/The.Canterbury.Tales.1972.720p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sample.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Sample.mkv
+http://109.120.203.163/lvm/drama/The.Current.War.2017.BDRip.x264.AAC-HUD/Sample.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Current.War.2017.BDRip.x264.AAC-HUD.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Current.War.2017.BDRip.x264.AAC-HUD.mkv
+http://109.120.203.163/lvm/drama/The.Current.War.2017.BDRip.x264.AAC-HUD/The.Current.War.2017.BDRip.x264.AAC-HUD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Weapons.of.Mass.Distration.1997.720p.HDTV.x264-SQUEAK.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Weapons.of.Mass.Distration.1997.720p.HDTV.x264-SQUEAK.mkv
+http://109.120.203.163/lvm/drama/Weapons.of.Mass.Distration.1997.720p.HDTV.x264-SQUEAK.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2050.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", 2050.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/2050%20(2020)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/2050.2020.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2067.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", 2067.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/2067%20(2020)%20%5b1080p%5d%20%5bWEBRip%5d%20%5b5.1%5d%20%5bYTS.MX%5d/2067.2020.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Promise.Of.Time.Travel.2016.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", A.Promise.Of.Time.Travel.2016.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/A%20Promise%20Of%20Time%20Travel%20(2016)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/A.Promise.Of.Time.Travel.2016.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Quiet.Place.2018.1080p.BluRay.x264-[YTS.AM].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", A.Quiet.Place.2018.1080p.BluRay.x264-[YTS.AM].mp4
+http://109.120.203.163/lvm/science%20fiction/A%20Quiet%20Place%20(2018)%20%5bBluRay%5d%20%5b1080p%5d%20%5bYTS.AM%5d/A.Quiet.Place.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Scanner.Darkly.2006.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", A.Scanner.Darkly.2006.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/A.Scanner.Darkly.2006.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice.in.Wonderland.2010.480p.BRRip.x264.AC3-FLAWL3SS.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Alice.in.Wonderland.2010.480p.BRRip.x264.AC3-FLAWL3SS.mkv
+http://109.120.203.163/lvm/science%20fiction/Alice.in.Wonderland.2010.480p.BRRip.x264.AC3-FLAWL3SS/Alice.in.Wonderland.2010.480p.BRRip.x264.AC3-FLAWL3SS.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sample.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Sample.mkv
+http://109.120.203.163/lvm/science%20fiction/Alice.in.Wonderland.2010.480p.BRRip.x264.AC3-FLAWL3SS/Sample/Sample.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien Covenant (2017).mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Alien Covenant (2017).mkv
+http://109.120.203.163/lvm/science%20fiction/Alien%20Covenant%20(2017).mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alita.Battle.Angel.2019.1080p.WEBRip.x264-[YTS.LT].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Alita.Battle.Angel.2019.1080p.WEBRip.x264-[YTS.LT].mp4
+http://109.120.203.163/lvm/science%20fiction/Alita%20Battle%20Angel%20(2019)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bYTS.LT%5d/Alita.Battle.Angel.2019.1080p.WEBRip.x264-%5bYTS.LT%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered.States.1980.720p.BluRay.x264-[YTS.AM].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Altered.States.1980.720p.BluRay.x264-[YTS.AM].mp4
+http://109.120.203.163/lvm/science%20fiction/Altered%20States%20(1980)%20%5bBluRay%5d%20%5b720p%5d%20%5bYTS.AM%5d/Altered.States.1980.720p.BluRay.x264-%5bYTS.AM%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Archive.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Archive.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/Archive%20(2020)%20%5b1080p%5d%20%5bBluRay%5d%20%5b5.1%5d%20%5bYTS.MX%5d/Archive.2020.1080p.BluRay.x264.AAC5.1-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="barbarella.1968.remastered.webrip.x264-regret.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", barbarella.1968.remastered.webrip.x264-regret.mkv
+http://109.120.203.163/lvm/science%20fiction/Barbarella.1968.REMASTERED.WEBRip.x264-REGRET%5bet%5d/barbarella.1968.remastered.webrip.x264-regret.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade.Runner.Final.Cut.1997.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Blade.Runner.Final.Cut.1997.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/Blade.Runner%20(1997)/Blade.Runner.Final.Cut.1997.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Color.Out.of.Space.2019.1080p.SCREENER.x264-Rapta.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Color.Out.of.Space.2019.1080p.SCREENER.x264-Rapta.mkv
+http://109.120.203.163/lvm/science%20fiction/Color.Out.of.Space.2019.1080p.SCREENER.x264-Rapta.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coma.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Coma.2019.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/Coma%20(2019)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Coma.2019.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Star - John Carpenter Sci-Fi 1974 Eng Subs 1080p [H264-mp4].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Dark Star - John Carpenter Sci-Fi 1974 Eng Subs 1080p [H264-mp4].mp4
+http://109.120.203.163/lvm/science%20fiction/Dark%20Star%20-%20John%20Carpenter%20Sci-Fi%201974%20Eng%20Subs%201080p%20%5bH264-mp4%5d/Dark%20Star%20-%20John%20Carpenter%20Sci-Fi%201974%20Eng%20Subs%201080p%20%5bH264-mp4%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donnie.Darko.DIRECTORS.CUT.2001.720p.BrRip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Donnie.Darko.DIRECTORS.CUT.2001.720p.BrRip.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/Donnie%20Darko%20DIRECTORS%20CUT%20(2001)/Donnie.Darko.DIRECTORS.CUT.2001.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dune.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Dune.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN.mkv
+http://109.120.203.163/lvm/science%20fiction/Dune.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN%5bTGx%5d/Dune.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape.from.Tomorrow.2013.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Escape.from.Tomorrow.2013.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/Escape%20from%20Tomorrow%20(2013)/Escape.from.Tomorrow.2013.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finch.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Finch.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/Finch%20(2021)%20%5b1080p%5d%20%5bWEBRip%5d%20%5b5.1%5d%20%5bYTS.MX%5d/Finch.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla.Vs..Kong.2021.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Godzilla.Vs..Kong.2021.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/Godzilla%20Vs.%20Kong%20(2021)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Godzilla.Vs..Kong.2021.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hugo.2011.iNTERNAL.BDRip.x264-MARS.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Hugo.2011.iNTERNAL.BDRip.x264-MARS.mkv
+http://109.120.203.163/lvm/science%20fiction/Hugo.2011.iNTERNAL.BDRip.x264-MARS.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Humanoids from the Deep 1980 Cult Movie  Bluray 1080p DTS-HD MA 2.0 HEVC-DDR[EtHD].mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Humanoids from the Deep 1980 Cult Movie  Bluray 1080p DTS-HD MA 2.0 HEVC-DDR[EtHD].mkv
+http://109.120.203.163/lvm/science%20fiction/Humanoids%20from%20the%20Deep%201980%20Cult%20Movie%20%20Bluray%201080p%20DTS-HD%20MA%202.0%20HEVC-DDR%5bEtHD%5d/Humanoids%20from%20the%20Deep%201980%20Cult%20Movie%20%20Bluray%201080p%20DTS-HD%20MA%202.0%20HEVC-DDR%5bEtHD%5d.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Immortal (Immortel-ad-vitam) 2004 X265 BDRip 1080p.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Immortal (Immortel-ad-vitam) 2004 X265 BDRip 1080p.mkv
+http://109.120.203.163/lvm/science%20fiction/Immortal%20(Immortel-ad-vitam)%202004%20X265%20BDRip%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jupiter.Ascending.2015.1080p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Jupiter.Ascending.2015.1080p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/Jupiter%20Ascending%20(2015)%20%5b1080p%5d/Jupiter.Ascending.2015.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="K-PAX.2001.720p.HDTV.x264.YIFY.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", K-PAX.2001.720p.HDTV.x264.YIFY.mkv
+http://109.120.203.163/lvm/science%20fiction/K-PAX%20(2001)/K-PAX.2001.720p.HDTV.x264.YIFY.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leviathan.1989.1080p.BluRay.x264-[YTS.AM].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Leviathan.1989.1080p.BluRay.x264-[YTS.AM].mp4
+http://109.120.203.163/lvm/science%20fiction/Leviathan%20(1989)%20%5bBluRay%5d%20%5b1080p%5d%20%5bYTS.AM%5d/Leviathan.1989.1080p.BluRay.x264-%5bYTS.AM%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love.And.Monsters.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Love.And.Monsters.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/Love%20And%20Monsters%20(2020)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/Love.And.Monsters.2020.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mortal.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Mortal.2020.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/Mortal%20(2020)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/Mortal.2020.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Blade Of Grass (Cornel Wilde 1970).mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", No Blade Of Grass (Cornel Wilde 1970).mkv
+http://109.120.203.163/lvm/science%20fiction/No%20Blade%20of%20Grass%20%5b1970%20-%20UK%5d%20classic%20sci%20fi/No%20Blade%20Of%20Grass%20(Cornel%20Wilde,%201970).mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Million Years B.C.  (Adv Fantasy 1966)  Raquel Welch John Richardson &amp; Percy Herbet.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", One Million Years B.C.  (Adv Fantasy 1966)  Raquel Welch John Richardson &amp; Percy Herbet.mp4
+http://109.120.203.163/lvm/science%20fiction/One%20Million%20Years%20B.C.%20%20(Fantasy%201966)%20%20R.%20Welch%20%20720p/One%20Million%20Years%20B.C.%20%20(Adv%20Fantasy%201966)%20%20Raquel%20Welch,%20John%20Richardson%20&amp;%20Percy%20Herbet.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sample.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Sample.mp4
+http://109.120.203.163/lvm/science%20fiction/One%20Million%20Years%20B.C.%20%20(Fantasy%201966)%20%20R.%20Welch%20%20720p/Sample.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Palm.Springs.2020.1080p.HULU.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Palm.Springs.2020.1080p.HULU.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
+http://109.120.203.163/lvm/science%20fiction/Palm.Springs.2020.1080p.HULU.WEBRip.1400MB.DD5.1.x264-GalaxyRG%5bTGx%5d/Palm.Springs.2020.1080p.HULU.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise.Hills.2019.WEBRip.x264-ION10.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Paradise.Hills.2019.WEBRip.x264-ION10.mp4
+http://109.120.203.163/lvm/science%20fiction/Paradise.Hills.2019.WEBRip.x264-ION10/Paradise.Hills.2019.WEBRip.x264-ION10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parallel.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Parallel.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+http://109.120.203.163/lvm/science%20fiction/Parallel.2020.720p.WEBRip.800MB.x264-GalaxyRG%5bTGx%5d/Parallel.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primer (2004).mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Primer (2004).mkv
+http://109.120.203.163/lvm/science%20fiction/Primer%20(2004).mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Black 2000 Remastered DC 720p BluRay HEVC H265 BONE.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Pitch Black 2000 Remastered DC 720p BluRay HEVC H265 BONE.mp4
+http://109.120.203.163/lvm/science%20fiction/Riddick%20Trilogy%20DC%202000-2004-2013%20720p%20BluRay%20HEVC%20H265%20BONE/Pitch%20Black%202000%20Remastered%20DC%20720p%20BluRay%20HEVC%20H265%20BONE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riddick 2013 Extended 720p BluRay HEVC H265 BONE.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Riddick 2013 Extended 720p BluRay HEVC H265 BONE.mp4
+http://109.120.203.163/lvm/science%20fiction/Riddick%20Trilogy%20DC%202000-2004-2013%20720p%20BluRay%20HEVC%20H265%20BONE/Riddick%202013%20Extended%20720p%20BluRay%20HEVC%20H265%20BONE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chronicles Of Riddick 2004 DC 720p BluRay HEVC H265 BONE.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The Chronicles Of Riddick 2004 DC 720p BluRay HEVC H265 BONE.mp4
+http://109.120.203.163/lvm/science%20fiction/Riddick%20Trilogy%20DC%202000-2004-2013%20720p%20BluRay%20HEVC%20H265%20BONE/The%20Chronicles%20Of%20Riddick%202004%20DC%20720p%20BluRay%20HEVC%20H265%20BONE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Safety.Not.Guaranteed.2012.720p.BRrip.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Safety.Not.Guaranteed.2012.720p.BRrip.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/Safety%20Not%20Guaranteed%20(2012)/Safety.Not.Guaranteed.2012.720p.BRrip.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skylines.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Skylines.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/Skylines%20(2020)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Skylines.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ly-society.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", ly-society.mkv
+http://109.120.203.163/lvm/science%20fiction/Society.1989.REMASTERED.BDRiP.x264-LiViDiTY%5brarbg%5d/ly-society.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ly-society-sample.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", ly-society-sample.mkv
+http://109.120.203.163/lvm/science%20fiction/Society.1989.REMASTERED.BDRiP.x264-LiViDiTY%5brarbg%5d/Sample/ly-society-sample.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Special_Unit_2_S01E01_The_Brothers.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Special_Unit_2_S01E01_The_Brothers.mp4
+http://109.120.203.163/lvm/science%20fiction/Special_Unit_2_S01E01_The_Brothers/Special_Unit_2_S01E01_The_Brothers.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special_Unit_2_S01E01_The_Brothers.ogv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Special_Unit_2_S01E01_The_Brothers.ogv
+http://109.120.203.163/lvm/science%20fiction/Special_Unit_2_S01E01_The_Brothers/Special_Unit_2_S01E01_The_Brothers.ogv
+#EXTINF:-1 tvg-id="" tvg-name="Species - The Awakening (2007) DVDRip - roflcopter2110.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Species - The Awakening (2007) DVDRip - roflcopter2110.mp4
+http://109.120.203.163/lvm/science%20fiction/Species%20-%20The%20Complete%20Collection%20(1995-1998-2004-2007)%20DVDRip%20-%20roflcopter2110/Species%20-%20The%20Awakening%20(2007)%20DVDRip%20-%20roflcopter2110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Species (1995) DVDRip Disc1 - roflcopter2110.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Species (1995) DVDRip Disc1 - roflcopter2110.mp4
+http://109.120.203.163/lvm/science%20fiction/Species%20-%20The%20Complete%20Collection%20(1995-1998-2004-2007)%20DVDRip%20-%20roflcopter2110/Species%20(1995)%20DVDRip%20Disc1%20-%20roflcopter2110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Species (1995) DVDRip Disc2 - roflcopter2110.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Species (1995) DVDRip Disc2 - roflcopter2110.mp4
+http://109.120.203.163/lvm/science%20fiction/Species%20-%20The%20Complete%20Collection%20(1995-1998-2004-2007)%20DVDRip%20-%20roflcopter2110/Species%20(1995)%20DVDRip%20Disc2%20-%20roflcopter2110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Species 2 (1998) DVDRip - roflcopter2110.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Species 2 (1998) DVDRip - roflcopter2110.mp4
+http://109.120.203.163/lvm/science%20fiction/Species%20-%20The%20Complete%20Collection%20(1995-1998-2004-2007)%20DVDRip%20-%20roflcopter2110/Species%202%20(1998)%20DVDRip%20-%20roflcopter2110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Species 3 (2004) DVDRip - roflcopter2110.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Species 3 (2004) DVDRip - roflcopter2110.mp4
+http://109.120.203.163/lvm/science%20fiction/Species%20-%20The%20Complete%20Collection%20(1995-1998-2004-2007)%20DVDRip%20-%20roflcopter2110/Species%203%20(2004)%20DVDRip%20-%20roflcopter2110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Company Of Wolves - Fantasy Horror 1984 Eng Subs 1080p [H264-mp4].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The Company Of Wolves - Fantasy Horror 1984 Eng Subs 1080p [H264-mp4].mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Company%20Of%20Wolves%20-%20Fantasy%20Horror%201984%20Eng%20Subs%201080p%20%5bH264-mp4%5d/The%20Company%20Of%20Wolves%20-%20Fantasy%20Horror%201984%20Eng%20Subs%201080p%20%5bH264-mp4%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Day of the Triffids (1963) 720p.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The Day of the Triffids (1963) 720p.mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Day%20of%20the%20Triffids%20(1963)%20720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Day.The.Earth.Stood.Still.1951.720p.BluRay.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Day.The.Earth.Stood.Still.1951.720p.BluRay.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Day%20The%20Earth%20Stood%20Still%20(1951)%20%5b720p%5d%20%5bBluRay%5d%20%5bYTS.MX%5d/The.Day.The.Earth.Stood.Still.1951.720p.BluRay.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hitchhikers Guide to the Galaxy 2005 720p BluRay x264 BONE.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The Hitchhikers Guide to the Galaxy 2005 720p BluRay x264 BONE.mkv
+http://109.120.203.163/lvm/science%20fiction/The%20Hitchhikers%20Guide%20to%20the%20Galaxy%202005%20720p%20BluRay%20x264%20BONE.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Last.Man.on.Earth.1964.1080p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Last.Man.on.Earth.1964.1080p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Last%20Man%20on%20Earth%20(1964)%20%5b1080p%5d/The.Last.Man.on.Earth.1964.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Lobster.2015.720p.BluRay.x264-[YTS.AG].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Lobster.2015.720p.BluRay.x264-[YTS.AG].mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Lobster%20(2015)%20%5bYTS.AG%5d/The.Lobster.2015.720p.BluRay.x264-%5bYTS.AG%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Road.2009.720p.BrRip.264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Road.2009.720p.BrRip.264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Road%20(2009)/The.Road.2009.720p.BrRip.264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Thing.1982.BluRay.720p.x264.YIFY.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Thing.1982.BluRay.720p.x264.YIFY.mkv
+http://109.120.203.163/lvm/science%20fiction/The%20Thing%20(1982)/The.Thing.1982.BluRay.720p.x264.YIFY.mkv
+#EXTINF:-1 tvg-id="" tvg-name="01 The Matrix - Action Sci-Fi 1999 Eng Subs 720p [H264-mp4].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", 01 The Matrix - Action Sci-Fi 1999 Eng Subs 720p [H264-mp4].mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Ultimate%20Matrix%20Collection%201,%202,%203,%20Animatrix%20-%201999-2003%20Eng%20Subs%20720p%20%5bH264-mp4%5d/The%20Ultimate%20Matrix%20Collection/01%20The%20Matrix%20-%20Action%20Sci-Fi%201999%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="02 The Matrix Reloaded - Action Sci-Fii 2003 Eng Subs 720p [H264-mp4].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", 02 The Matrix Reloaded - Action Sci-Fii 2003 Eng Subs 720p [H264-mp4].mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Ultimate%20Matrix%20Collection%201,%202,%203,%20Animatrix%20-%201999-2003%20Eng%20Subs%20720p%20%5bH264-mp4%5d/The%20Ultimate%20Matrix%20Collection/02%20The%20Matrix%20Reloaded%20-%20Action%20Sci-Fii%202003%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="03 The Matrix Revolutions - Action Sci-Fi 2003 Eng Subs 720p [H264-mp4].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", 03 The Matrix Revolutions - Action Sci-Fi 2003 Eng Subs 720p [H264-mp4].mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Ultimate%20Matrix%20Collection%201,%202,%203,%20Animatrix%20-%201999-2003%20Eng%20Subs%20720p%20%5bH264-mp4%5d/The%20Ultimate%20Matrix%20Collection/03%20The%20Matrix%20Revolutions%20-%20Action%20Sci-Fi%202003%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="04 The Animatrix - Complete Part 1 To 9 2003 Eng Subs 720p [H264-mp4].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", 04 The Animatrix - Complete Part 1 To 9 2003 Eng Subs 720p [H264-mp4].mp4
+http://109.120.203.163/lvm/science%20fiction/The%20Ultimate%20Matrix%20Collection%201,%202,%203,%20Animatrix%20-%201999-2003%20Eng%20Subs%20720p%20%5bH264-mp4%5d/The%20Ultimate%20Matrix%20Collection/04%20The%20Animatrix%20-%20Complete%20Part%201%20To%209%202003%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Age.of.Adaline.2015.1080p.BluRay.x264-anoXmous.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Age.of.Adaline.2015.1080p.BluRay.x264-anoXmous.mp4
+http://109.120.203.163/lvm/science%20fiction/The.Age.of.Adaline.2015.1080p.BluRay.x264-anoXmous/The.Age.of.Adaline.2015.1080p.BluRay.x264-anoXmous.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Quiet.Earth.1985.REMASTERED.BDRip.x264-RedBlade.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Quiet.Earth.1985.REMASTERED.BDRip.x264-RedBlade.mkv
+http://109.120.203.163/lvm/science%20fiction/The.Quiet.Earth.1985.REMASTERED.BDRip.x264-RedBlade%5b1337x%5d%5bSN%5d/The.Quiet.Earth.1985.REMASTERED.BDRip.x264-RedBlade.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Zero.Theorem.2013.1080p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", The.Zero.Theorem.2013.1080p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/The.Zero.Theorum%5b2013%5d/The.Zero.Theorem.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valerian.and.the.City.of.a.Thousand.Planets.2017.INTERNAL.480p.x264-mSD.mkv" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Valerian.and.the.City.of.a.Thousand.Planets.2017.INTERNAL.480p.x264-mSD.mkv
+http://109.120.203.163/lvm/science%20fiction/Valerian.and.the.City.of.a.Thousand.Planets.2017.INTERNAL.480p.x264-mSD/Valerian.and.the.City.of.a.Thousand.Planets.2017.INTERNAL.480p.x264-mSD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Videodrome.1983.720p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Videodrome.1983.720p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/Videodrome%20(1983)/Videodrome.1983.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Virus.1999.1080p.BluRay.H264.AAC-RARBG.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Virus.1999.1080p.BluRay.H264.AAC-RARBG.mp4
+http://109.120.203.163/lvm/science%20fiction/Virus.1999.1080p.BluRay.H264.AAC-RARBG/Virus.1999.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivarium.2020.BDRip.XviD.AC3-EVO.avi" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Vivarium.2020.BDRip.XviD.AC3-EVO.avi
+http://109.120.203.163/lvm/science%20fiction/Vivarium.2020.BDRip.XviD.AC3-EVO/Vivarium.2020.BDRip.XviD.AC3-EVO.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vratar.Galaktiki.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Vratar.Galaktiki.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+http://109.120.203.163/lvm/science%20fiction/Vratar%20Galaktiki%20(2020)%20%5b720p%5d%20%5bWEBRip%5d%20%5bYTS.MX%5d/Vratar.Galaktiki.2020.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="What Happened to Monday 2017 720p WEBRip 900 mb - iExTV.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", What Happened to Monday 2017 720p WEBRip 900 mb - iExTV.mp4
+http://109.120.203.163/lvm/science%20fiction/What%20Happened%20to%20Monday%202017%20720p%20WEBRip%20900%20mb%20-%20iExTV/What%20Happened%20to%20Monday%202017%20720p%20WEBRip%20900%20mb%20-%20iExTV.mp4
+#EXTINF:-1 tvg-id="" tvg-name="World.War.Z.2013.1080p.BluRay.x264.YIFY.mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", World.War.Z.2013.1080p.BluRay.x264.YIFY.mp4
+http://109.120.203.163/lvm/science%20fiction/World%20War%20Z%20(2013)%20%5b1080p%5d/World.War.Z.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xtro - Cult Classic Sci-Fi 1982 Eng Subs 720p [H264-mp4].mp4" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Filmovi MIX 3 ::", Xtro - Cult Classic Sci-Fi 1982 Eng Subs 720p [H264-mp4].mp4
+http://109.120.203.163/lvm/science%20fiction/Xtro%20-%20Cult%20Classic%20Sci-Fi%201982%20Eng%20Subs%20720p%20%5bH264-mp4%5d/Xtro%20-%20Cult%20Classic%20Sci-Fi%201982%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="##### |HR| CROATIA #####" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/CROATIALOGO.png" group-title="EX-YU  CROATIA",##### |HR| CROATIA #####
-http://rv.imax.re:80/4020473160/9684591300/158571
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 1" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT1.png" group-title="EX-YU  CROATIA",|HR| HRT 1
-http://rv.imax.re:80/4020473160/9684591300/158570
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 1 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT1.png" group-title="EX-YU  CROATIA",|HR| HRT 1 HD
-http://rv.imax.re:80/4020473160/9684591300/158569
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 2" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT2.png" group-title="EX-YU  CROATIA",|HR| HRT 2
-http://rv.imax.re:80/4020473160/9684591300/158568
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 2 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT2.png" group-title="EX-YU  CROATIA",|HR| HRT 2 HD
-http://rv.imax.re:80/4020473160/9684591300/158567
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 3" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT3.png" group-title="EX-YU  CROATIA",|HR| HRT 3
-http://rv.imax.re:80/4020473160/9684591300/158566
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 3 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT3.png" group-title="EX-YU  CROATIA",|HR| HRT 3 HD
-http://rv.imax.re:80/4020473160/9684591300/158565
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 4" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT4.png" group-title="EX-YU  CROATIA",|HR| HRT 4
-http://rv.imax.re:80/4020473160/9684591300/158564
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 4 HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT4.png" group-title="EX-YU  CROATIA",|HR| HRT 4 HD
-http://rv.imax.re:80/4020473160/9684591300/158563
-#EXTINF:-1 tvg-id="" tvg-name="|HR| HRT 5" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/HRT5.png" group-title="EX-YU  CROATIA",|HR| HRT 5
-http://rv.imax.re:80/4020473160/9684591300/158562
-#EXTINF:-1 tvg-id="" tvg-name="|HR| NOVA TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/NOVATVHD.png" group-title="EX-YU  CROATIA",|HR| NOVA TV HD
-http://rv.imax.re:80/4020473160/9684591300/158561
-#EXTINF:-1 tvg-id="" tvg-name="|HR| NOVA TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/NOVATVHD.png" group-title="EX-YU  CROATIA",|HR| NOVA TV
-http://rv.imax.re:80/4020473160/9684591300/158560
-#EXTINF:-1 tvg-id="" tvg-name="|HR| DOMA TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/DOMATVHD.png" group-title="EX-YU  CROATIA",|HR| DOMA TV HD
-http://rv.imax.re:80/4020473160/9684591300/158559
-#EXTINF:-1 tvg-id="" tvg-name="|HR| DOMA TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/DOMATVHD.png" group-title="EX-YU  CROATIA",|HR| DOMA TV
-http://rv.imax.re:80/4020473160/9684591300/158558
-#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL HR" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/RTLHR.png" group-title="EX-YU  CROATIA",|HR| RTL HR
-http://rv.imax.re:80/4020473160/9684591300/158557
-#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL 2" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/RTL2.png" group-title="EX-YU  CROATIA",|HR| RTL 2
-http://rv.imax.re:80/4020473160/9684591300/158556
-#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL CRIME" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/RTLCRIME.png" group-title="EX-YU  CROATIA",|HR| RTL CRIME
-http://rv.imax.re:80/4020473160/9684591300/158555
-#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL LIVING" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/RTLLIVING.png" group-title="EX-YU  CROATIA",|HR| RTL LIVING
-http://rv.imax.re:80/4020473160/9684591300/158554
-#EXTINF:-1 tvg-id="" tvg-name="|HR| RTL PASSION" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/RTLPASSION.png" group-title="EX-YU  CROATIA",|HR| RTL PASSION
-http://rv.imax.re:80/4020473160/9684591300/158553
-#EXTINF:-1 tvg-id="" tvg-name="|HR| N1 HR" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/N1HR.png" group-title="EX-YU  CROATIA",|HR| N1 HR
-http://rv.imax.re:80/4020473160/9684591300/158552
-#EXTINF:-1 tvg-id="" tvg-name="|HR| OSJECKA TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/OSJECKATV.png" group-title="EX-YU  CROATIA",|HR| OSJECKA TV
-http://rv.imax.re:80/4020473160/9684591300/158551
-#EXTINF:-1 tvg-id="" tvg-name="|HR| VINKOVACKA TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/VINKOVACKATV.png" group-title="EX-YU  CROATIA",|HR| VINKOVACKA TV
-http://rv.imax.re:80/4020473160/9684591300/158550
-#EXTINF:-1 tvg-id="" tvg-name="|HR| TV BANOVINA" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/TVBANOVINA.png" group-title="EX-YU  CROATIA",|HR| TV BANOVINA
-http://rv.imax.re:80/4020473160/9684591300/158549
-#EXTINF:-1 tvg-id="" tvg-name="|HR| Z 1" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/Z1.png" group-title="EX-YU  CROATIA",|HR| Z 1
-http://rv.imax.re:80/4020473160/9684591300/158548
-#EXTINF:-1 tvg-id="" tvg-name="|HR| LAUDATO TV" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/croatia/LAUDATOTV.png" group-title="EX-YU  CROATIA",|HR| LAUDATO TV
-http://rv.imax.re:80/4020473160/9684591300/158547
 
 #EXTINF:-1 tvg-id="" tvg-name="Top Lista Nadrealista - 21.Epizoda (BEZ PESAMA)" tvg-logo="" tvg-shift="0" group-title=":: ciefpsettings • Streamlink Youtube Channels ::", Top Lista Nadrealista - 21.Epizoda (BEZ PESAMA)
-http://127.0.0.1:8088/https://www.youtube.com/watch?v=irmDXyvGXnE
+https://www.youtube.com/watch?v=irmDXyvGXnE
