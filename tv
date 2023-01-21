@@ -1,9 +1,88 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BIGBBR3" tvg-name="BBB 23 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicsradio/bbb.png" group-title="Canais | BBB23",BBB 23 HD
-http://51.89.98.62:8080/vic83/8383/84238
-#EXTINF:-1 tvg-id="BIGBBR3" tvg-name="BBB 23 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicsradio/bbb.png" group-title="Canais | BBB23",BBB 23 SD
-http://51.89.98.62:8080/vic83/8383/84239
-#EXTINF:-1 tvg-id="BIGBBR3" tvg-name="BBB 23 HD 2" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicsradio/bbb.png" group-title="Canais | BBB23",BBB 23 HD 2
-http://51.89.98.62:8080/vic83/8383/84500
 
-#THEEND
+#EXTINF:-1 tvg-id="ftv" tvg-name="FTV HD" tvg-logo="http://repo.ottshow.net/pikoni/bosna/ftvhd.gif" group-title="Bosna",FTV HD
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/31733.ts
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT HD" tvg-logo="http://repo.ottshow.net/pikoni/bosna/bhthd.gif" group-title="Bosna",BHT HD
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/214.ts
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="Nova BH HD" tvg-logo="http://repo.ottshow.net/pikoni/bosna/novabhhd.gif" group-title="Bosna",Nova BH HD
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/4.ts
+#EXTINF:-1 tvg-id="face-tv" tvg-name="Face TV HD" tvg-logo="http://repo.ottshow.net/pikoni/bosna/facetvhd.gif" group-title="Bosna",Face TV HD
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/2469.ts
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT HD" tvg-logo="https://repo.ottshow.net/pikoni/bosna/hayathd.gif" group-title="Bosna",HAYAT HD
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/40636.ts
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 BIH" tvg-logo="http://repo.ottshow.net/pikoni/bosna/n1bih.gif" group-title="Bosna",N1 BIH
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/29845.ts
+#EXTINF:-1 tvg-id="ftv" tvg-name="FTV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/ftv.gif" group-title="Bosna",FTV
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/1.ts
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT 1" tvg-logo="http://repo.ottshow.net/pikoni/bosna/bht.gif" group-title="Bosna",BHT 1
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY tv" tvg-logo="http://repo.ottshow.net/pikoni/sport/bhpremijerliga.gif" group-title="Bosna",MY tv
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/22820.ts
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="Nova BH" tvg-logo="http://repo.ottshow.net/pikoni/bosna/novabh.gif" group-title="Bosna",Nova BH
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/13939.ts
+#EXTINF:-1 tvg-id="face-tv" tvg-name="Face TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/facetv.gif" group-title="Bosna",Face TV
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/26.ts
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="Hayat" tvg-logo="http://repo.ottshow.net/pikoni/bosna/hayat.gif" group-title="Bosna",Hayat
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/29454.ts
+#EXTINF:-1 tvg-id="hayat-plus" tvg-name="Hayat Plus" tvg-logo="http://repo.ottshow.net/pikoni/bosna/hayatplus.gif" group-title="Bosna",Hayat Plus
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/546.ts
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN" tvg-logo="http://repo.ottshow.net/pikoni/bosna/obn.gif" group-title="Bosna",OBN
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/11.ts
+#EXTINF:-1 tvg-id="bn" tvg-name="BN TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/bn.gif" group-title="Bosna",BN TV
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/24.ts
+#EXTINF:-1 tvg-id="bn-sat" tvg-name="BN 2" tvg-logo="http://repo.ottshow.net/pikoni/bosna/bn2.gif" group-title="Bosna",BN 2
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/32379.ts
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtrs.gif" group-title="Bosna",RTRS
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/96.ts
+#EXTINF:-1 tvg-id="prva-bh" tvg-name="Prva BH" tvg-logo="https://repo.ottshow.net/pikoni/bosna/Prva%20BH.gif" group-title="Bosna",Prva BH
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/40875.ts
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/atv.gif" group-title="Bosna",ATV
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/10.ts
+#EXTINF:-1 tvg-id="o-kanal" tvg-name="0 Kanal" tvg-logo="http://repo.ottshow.net/pikoni/bosna/0kanal.gif" group-title="Bosna",0 Kanal
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/12.ts
+#EXTINF:-1 tvg-id="o-kanal-plus" tvg-name="O Kanal Plus" tvg-logo="http://repo.ottshow.net/pikoni/bosna/O%20KANAL%20PLUS.gif" group-title="Bosna",O Kanal Plus
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/36411.ts
+#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="Al Jazeera Balkans" tvg-logo="http://repo.ottshow.net/pikoni/bosna/aljazeerabalkans.gif" group-title="Bosna",Al Jazeera Balkans
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/99.ts
+#EXTINF:-1 tvg-id="rtvtk" tvg-name="TK" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tk.gif" group-title="Bosna",TK
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/3.ts
+#EXTINF:-1 tvg-id="televizija-alfa" tvg-name="Alfa Sarajevo" tvg-logo="http://repo.ottshow.net/pikoni/bosna/alfasarajevo.gif" group-title="Bosna",Alfa Sarajevo
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/13.ts
+#EXTINF:-1 tvg-id="mtv-igman" tvg-name="TV Igman" tvg-logo="http://repo.ottshow.net/pikoni/bosna/mtvigman.gif" group-title="Bosna",TV Igman
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/14.ts
+#EXTINF:-1 tvg-id="tv-sarajevo" tvg-name="TV Sarajevo" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tvsarajevo.gif" group-title="Bosna",TV Sarajevo
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/234.ts
+#EXTINF:-1 tvg-id="rtv-ze" tvg-name="TV Zenica" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtvz.gif" group-title="Bosna",TV Zenica
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/1209.ts
+#EXTINF:-1 tvg-id="rtv-usk" tvg-name="USK" tvg-logo="http://repo.ottshow.net/pikoni/bosna/usk.gif" group-title="Bosna",USK
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/676.ts
+#EXTINF:-1 tvg-id="rtv-hit" tvg-name="HIT Brcko" tvg-logo="http://repo.ottshow.net/pikoni/bosna/hitbrcko.gif" group-title="Bosna",HIT Brcko
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/650.ts
+#EXTINF:-1 tvg-id="ntv-ic" tvg-name="TV Kakanj" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tvkakanj.gif" group-title="Bosna",TV Kakanj
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/210.ts
+#EXTINF:-1 tvg-id="rtv-slon" tvg-name="RTV Slon" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tvslon.gif" group-title="Bosna",RTV Slon
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/218.ts
+#EXTINF:-1 tvg-id="televizija-5" tvg-name="Televizija 5" tvg-logo="http://repo.ottshow.net/pikoni/bosna/televizija5.gif" group-title="Bosna",Televizija 5
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/1568.ts
+#EXTINF:-1 tvg-id="kanal-3-prnjavor" tvg-name="K3" tvg-logo="http://repo.ottshow.net/pikoni/bosna/k3tv.gif" group-title="Bosna",K3
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/1851.ts
+#EXTINF:-1 tvg-id="kanal-6" tvg-name="Kanal 6 HD" tvg-logo="http://repo.ottshow.net/pikoni/bosna/kanal6.gif" group-title="Bosna",Kanal 6 HD
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/9126.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV Amna" tvg-logo="http://repo.ottshow.net/pikoni/bosna/ntvamna.gif" group-title="Bosna",NTV Amna
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/11265.ts
+#EXTINF:-1 tvg-id="bir-tv" tvg-name="BIR TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/birtv.gif" group-title="Bosna",BIR TV
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/28677.ts
+#EXTINF:-1 tvg-id="smart-tv" tvg-name="Smart tv" tvg-logo="http://repo.ottshow.net/pikoni/bosna/smarttv.gif" group-title="Bosna",Smart tv
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/33158.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Sana" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtvsana.gif" group-title="Bosna",RTV Sana
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/11587.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Podrinje" tvg-logo="http://repo.ottshow.net/pikoni/bosna/tvpodrinje.gif" group-title="Bosna",TV Podrinje
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/24511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Neon TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/NEON%20TV.gif" group-title="Bosna",Neon TV
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/36346.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV Cazin" tvg-logo="http://repo.ottshow.net/pikoni/bosna/rtvcazin.gif" group-title="Bosna",RTV Cazin
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/24947.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIR TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/mirtv.gif" group-title="Bosna",MIR TV
+http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/26000.ts
+
+#EXTM3U
