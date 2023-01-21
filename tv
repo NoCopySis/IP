@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ftv" tvg-name="FTV HD" tvg-logo="http://repo.ottshow.net/pikoni/bosna/ftvhd.gif" group-title="Bosna",FTV HD
-        http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/31733.ts
+#EXTINF:-1 tvg-id="ftv" tvg-name="FTV HD" tvg-logo="http://repo.ottshow.net/pikoni/bosna/ftvhd.gif" 
+group-title="Bosna",FTV HD http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/31733.ts
 
 #END
