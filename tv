@@ -85,4 +85,4 @@ http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/24947.ts
 #EXTINF:-1 tvg-id="" tvg-name="MIR TV" tvg-logo="http://repo.ottshow.net/pikoni/bosna/mirtv.gif" group-title="Bosna",MIR TV
 http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/26000.ts
 
-#EXT
+#END
