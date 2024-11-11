@@ -1,6 +1,8 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="ftv" tvg-name="FTV HD" tvg-logo="http://repo.ottshow.net/pikoni/bosna/ftvhd.gif" 
-group-title="Bosna",FTV HD http://ottshow.net:80/live/V70fKbUBUB/TR8Uks3gUa/31733.ts
-
+http://3k.king2hd.com:80/98:06:3c:a0:ad:e8/10032024rdm74/163847
+#EXTINF:-1,EXYU: Arena Sport Premium 1
+http://3k.king2hd.com:80/98:06:3c:a0:ad:e8/10032024rdm74/196189
+#EXTINF:-1,EX-YU: 24 KITCHEN
+http://3k.king2hd.com:80/98:06:3c:a0:ad:e8/10032024rdm74/196188
+#EXTINF:-1,EX-YU: ANIMAL PLANET
 #END
