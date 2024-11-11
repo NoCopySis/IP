@@ -1,10 +1,10 @@
 #EXTM3U
 http://norkxmz.top:8080/251719349164169/2fbbfe5ffc56/57584
-#EXTINF:-1, group-title="Server 1",&tv 24 KITCHEN
+#EXTINF:-1, group-title="Server 1",&tv=24 KITCHEN
 http://norkxmz.top:8080/251719349164169/2fbbfe5ffc56/51683
-#EXTINF:-1, group-title="Server 1",&tv AMC
+#EXTINF:-1, group-title="Server 1",&tv=AMC
 http://norkxmz.top:8080/251719349164169/2fbbfe5ffc56/51684
-#EXTINF:-1, group-title="Server 1",&tv ANIMAL PLANET
+#EXTINF:-1, group-title="Server 1",&tv=ANIMAL PLANET
 http://norkxmz.top:8080/251719349164169/2fbbfe5ffc56/51685
 #EXTINF:-1,EX-YU: ARENA SPORT 1 HR
 http://norkxmz.top:8080/251719349164169/2fbbfe5ffc56/51686
