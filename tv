@@ -17,5 +17,11 @@ http://3k.king2hd.com:80/98:06:3c:a0:ad:e8/10032024rdm74/189569
 #EXTINF:-1,BG: TIANKOV ORIENT HD
 http://3k.king2hd.com:80/98:06:3c:a0:ad:e8/10032024rdm74/189570
 #EXTINF:-1,BG: RING BG HD
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/atv.png" group-title="TR TURKIYE",TR: ATV HD
+http://hdtvs.pro:8080/iCQowdbGUv/JfuYX8kRKg/182711
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/show.png" group-title="TR TURKIYE",TR: SHOW TV HD
+http://hdtvs.pro:8080/iCQowdbGUv/JfuYX8kRKg/2588
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/kanald.png" group-title="TR TURKIYE",TR: KANAL D HD
+http://hdtvs.pro:8080/iCQowdbGUv/JfuYX8kRKg/209443
 
 #END
