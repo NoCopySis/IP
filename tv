@@ -365,9 +365,9 @@ http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/2621
 http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/2622
 #EXTINF:-1 tvg-id="" tvg-name="Amc" tvg-logo="" tvg-shift="0" group-title="EX| SERBIAN", Amc
 http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/2624
-#EXTINF:-1 tvg-id="" tvg-name="Amc HD" tvg-logo="" tvg-shift="0" group-title="EX| SERBIAN", Amc HD
+#EXTINF:-1 tvg-id="Amc HD" tvg-name="Amc HD" tvg-logo="" tvg-shift="0" group-title="EX| SERBIAN", Amc HD
 http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/2623
-#EXTINF:-1 tvg-id="" tvg-name="RS: 24kitchen HD" tvg-logo="" tvg-shift="0" group-title="EX| SERBIAN", RS: 24kitchen HD
+#EXTINF:-1 tvg-id="24Kitchen HD" tvg-name="RS: 24Kitchen HD" tvg-logo="" tvg-shift="0" group-title="EX| SERBIAN", RS: 24Kitchen HD
 http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/2625
 #EXTINF:-1 tvg-id="" tvg-name="RS: 24 Kitchen" tvg-logo="" tvg-shift="0" group-title="EX| SERBIAN", RS: 24 Kitchen
 http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/2626
@@ -389,7 +389,7 @@ http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/200678
 http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/200679
 
 http://norkxmz.top:8080/251719349164169/2fbbfe5ffc56/57584
-#EXTINF:-1,tvg-id="" tvg-name="24 KITCHEN" tvg-shift="0" group-title="SERVER 1", 24 KITCHEN
+#EXTINF:-1,tvg-id="24Kitchen HD" tvg-name="24Kitchen HD" tvg-logo="" tvg-shift="0" group-title="SERVER 1", 24Kitchen HD
 http://norkxmz.top:8080/251719349164169/2fbbfe5ffc56/51683
 #EXTINF:-1,tvg-name="AMC" tvg-shift="0" group-title="SERVER 1", AMC
 http://norkxmz.top:8080/251719349164169/2fbbfe5ffc56/51684
