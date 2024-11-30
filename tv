@@ -634,3 +634,640 @@ http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/2390
 #EXTINF:-1 tvg-id="AL Jazeera Balkans" tvg-name="BA: Al Jezzera Balkans" tvg-logo="" tvg-shift="0" group-title="SERVER 1", BA: Al Jezzera Balkans
 http://george45652.cdngold.me:80/Jockisch6266/8fe60225d3/2391
 
+#EXTINF:-1 tvg-id="BabyTV.eu" tvg-name="|EXYU| BABY TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| BABY TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689526.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.cz" tvg-name="|EXYU| CARTOON NETWORK (UK)" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| CARTOON NETWORK (UK)
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689527.ts
+#EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-name="|EXYU| DISNEY CHANNEL (NL)" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| DISNEY CHANNEL (NL)
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689528.ts
+#EXTINF:-1 tvg-id="DuckTV.cz" tvg-name="|EXYU| DUCK TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| DUCK TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689529.ts
+#EXTINF:-1 tvg-id="Hayatovci.ba" tvg-name="|EXYU| HAYATOVCI" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HAYATOVCI
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689530.ts
+#EXTINF:-1 tvg-id="JimJam.bg" tvg-name="|EXYU| JIMJAM TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| JIMJAM TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689531.ts
+#EXTINF:-1 tvg-id="MiniTV.hr" tvg-name="|EXYU| MINI TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MINI TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689532.ts
+#EXTINF:-1 tvg-id="Minimax.cz" tvg-name="|EXYU| MINIMAX" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MINIMAX
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689533.ts
+#EXTINF:-1 tvg-id="NickJr.bg" tvg-name="|EXYU| NICK JR (HR)" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| NICK JR (HR)
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689534.ts
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="|EXYU| NICKELODEON HR" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| NICKELODEON HR
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689535.ts
+#EXTINF:-1 tvg-id="Pikaboo.hr" tvg-name="|EXYU| PIKABOO (HR)" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| PIKABOO (HR)
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689536.ts
+#EXTINF:-1 tvg-id="PinkKids.rs" tvg-name="|EXYU| PINK KIDS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| PINK KIDS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689537.ts
+#EXTINF:-1 tvg-id="PinkSuperKids.rs" tvg-name="|EXYU| PINK SUPER KIDS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| PINK SUPER KIDS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689538.ts
+#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="|EXYU| RTL KOCKICA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTL KOCKICA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689539.ts
+#EXTINF:-1 tvg-id="TNT.ro" tvg-name="|EXYU| TNT KIDS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TNT KIDS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689540.ts
+#EXTINF:-1 tvg-id="GrandTV.hr" tvg-name="|EXYU| TOM AND JERYY" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TOM AND JERYY
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689541.ts
+#EXTINF:-1 tvg-id="Vavoom.hr" tvg-name="|EXYU| VAVOOM TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| VAVOOM TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689542.ts
+#EXTINF:-1 tvg-id="BHT1.svn" tvg-name="|EXYU| BHT 1 FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| BHT 1 FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689543.ts
+#EXTINF:-1 tvg-id="BHT1.svn" tvg-name="|EXYU| BHT 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| BHT 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689544.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| FEDERALNA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| FEDERALNA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689545.ts
+#EXTINF:-1 tvg-id="NovaBH.ba" tvg-name="|EXYU| NOVA BH" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| NOVA BH
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689546.ts
+#EXTINF:-1 tvg-id="NovaBH.ba" tvg-name="|EXYU| NOVA BH ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| NOVA BH ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689547.ts
+#EXTINF:-1 tvg-id="FaceTV.hr" tvg-name="|EXYU| FACE TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| FACE TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689548.ts
+#EXTINF:-1 tvg-id="FaceTV.hr" tvg-name="|EXYU| FACE TV FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| FACE TV FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689549.ts
+#EXTINF:-1 tvg-id="OBN.hr" tvg-name="|EXYU| OBN HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| OBN HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689550.ts
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.hr" tvg-name="|EXYU| Al JAZEERA BALKANS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| Al JAZEERA BALKANS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689551.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| TATABRADA TV ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TATABRADA TV ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689552.ts
+#EXTINF:-1 tvg-id="BN.rs" tvg-name="|EXYU| BN" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| BN
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689553.ts
+#EXTINF:-1 tvg-id="BN2.rs" tvg-name="|EXYU| BN 2 ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| BN 2 ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689554.ts
+#EXTINF:-1 tvg-id="a.tv.de" tvg-name="|EXYU| ATV BANJA LUKA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| ATV BANJA LUKA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689555.ts
+#EXTINF:-1 tvg-id="B1TV.ro" tvg-name="|EXYU| B1 GRADACAC" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| B1 GRADACAC
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689556.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| BIR TV ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| BIR TV ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689557.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| BOSANSKO POSAVSKA TV ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| BOSANSKO POSAVSKA TV ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689558.ts
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-name="|EXYU| CITY TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| CITY TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689559.ts
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| GLAS DRINE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| GLAS DRINE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689560.ts
+#EXTINF:-1 tvg-id="HayatTV.svn" tvg-name="|EXYU| HAYAT HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HAYAT HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689561.ts
+#EXTINF:-1 tvg-id="HayatTV.svn" tvg-name="|EXYU| HAYAT ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HAYAT ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689562.ts
+#EXTINF:-1 tvg-id="hayat-plus.ba" tvg-name="|EXYU| HAYAT PLUS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HAYAT PLUS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689563.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| HEMA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HEMA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689564.ts
+#EXTINF:-1 tvg-id="TV4Hits.se" tvg-name="|EXYU| HIT BRCKO TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HIT BRCKO TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689565.ts
+#EXTINF:-1 tvg-id="K3.ba" tvg-name="|EXYU| K3 PRNJAVOR" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| K3 PRNJAVOR
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689566.ts
+#EXTINF:-1 tvg-id="Kanal3.bg" tvg-name="|EXYU| KANAL 6" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| KANAL 6
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689567.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| MEKKA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MEKKA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689568.ts
+#EXTINF:-1 tvg-id="MTV.ch" tvg-name="|EXYU| MTV IGMAN" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MTV IGMAN
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689569.ts
+#EXTINF:-1 tvg-id="N1BiH.ba" tvg-name="|EXYU| N1 BiH" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| N1 BiH
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689570.ts
+#EXTINF:-1 tvg-id="ZDFneoNight.de" tvg-name="|EXYU| NEON TV ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| NEON TV ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689571.ts
+#EXTINF:-1 tvg-id="One.de" tvg-name="|EXYU| ELTA 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| ELTA 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689572.ts
+#EXTINF:-1 tvg-id="24.cz" tvg-name="|EXYU| ELTA2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| ELTA2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689573.ts
+#EXTINF:-1 tvg-id="Prva.hr" tvg-name="|EXYU| PRVA HERCEGOVACKA ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| PRVA HERCEGOVACKA ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689574.ts
+#EXTINF:-1 tvg-id="RTV7.nl" tvg-name="|EXYU| RTV 7" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV 7
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689575.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV CAZIN" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV CAZIN
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689576.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV HB" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV HB
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689577.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV PODRINJE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV PODRINJE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689578.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV SANA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV SANA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689579.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV USK" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV USK
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689580.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV VISOKO ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV VISOKO ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689581.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV ZENICA ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV ZENICA ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689582.ts
+#EXTINF:-1 tvg-id="RTRS.ba" tvg-name="|EXYU| RTRS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTRS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689583.ts
+#EXTINF:-1 tvg-id="SuperSatTV.rs" tvg-name="|EXYU| SUPER TV MEDIA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| SUPER TV MEDIA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689584.ts
+#EXTINF:-1 tvg-id="RTLTelevizija.hr" tvg-name="|EXYU| TELEVIZIJA 5" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TELEVIZIJA 5
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689585.ts
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="|EXYU| TK TUZLA ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TK TUZLA ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689586.ts
+#EXTINF:-1 tvg-id="NTVICKakanj.svn" tvg-name="|EXYU| TV KAKANJ ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV KAKANJ ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689587.ts
+#EXTINF:-1 tvg-id="TVSarajevo.svn" tvg-name="|EXYU| TV SARAJEVO" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV SARAJEVO
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689588.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| TV SEHARA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV SEHARA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689589.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| MARY TV MEDJUGORJE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MARY TV MEDJUGORJE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689590.ts
+#EXTINF:-1 tvg-id="OTVValentino.ba" tvg-name="|EXYU| VALENTINO TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| VALENTINO TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689591.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| VOGOSCA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| VOGOSCA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689592.ts
+#EXTINF:-1 tvg-id="OKanal.ba" tvg-name="|EXYU| O KANAL" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| O KANAL
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689593.ts
+#EXTINF:-1 tvg-id="AlfaTV.bg" tvg-name="|EXYU| ALFA TV ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| ALFA TV ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689594.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV SLON ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV SLON ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689595.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV KRAJINA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV KRAJINA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689596.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV LUKAVAC ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV LUKAVAC ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689597.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV JABLANICA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV JABLANICA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689598.ts
+#EXTINF:-1 tvg-id="ntv.at" tvg-name="|EXYU| NTV JATA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| NTV JATA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689599.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| ZIVINICE TV ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| ZIVINICE TV ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689600.ts
+#EXTINF:-1 tvg-id="UnaTV.ba" tvg-name="|EXYU| UNA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| UNA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689601.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| TV HISTORIJA ᶠᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV HISTORIJA ᶠᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689602.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| HERCEG TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HERCEG TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689603.ts
+#EXTINF:-1 tvg-id="TVRIworld.id" tvg-name="|EXYU| UNA WORLD BH TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| UNA WORLD BH TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689604.ts
+#EXTINF:-1 tvg-id="Extra.cy" tvg-name="|EXYU| RTV SLON Extra" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV SLON Extra
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689605.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| Maria Međugorje TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| Maria Međugorje TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689606.ts
+#EXTINF:-1 tvg-id="BN.rs" tvg-name="|EXYU| BN ᴴᴰ" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| BN ᴴᴰ
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689607.ts
+#EXTINF:-1 tvg-id="UHD1.de" tvg-name="|EXYU| SITEL HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| SITEL HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689608.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| Sitel TV FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| Sitel TV FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689609.ts
+#EXTINF:-1 tvg-id="Kanal5.dk" tvg-name="|EXYU| KANAL 5" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| KANAL 5
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689610.ts
+#EXTINF:-1 tvg-id="AlfaTV.bg" tvg-name="|EXYU| ALFA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| ALFA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689611.ts
+#EXTINF:-1 tvg-id="MRT1.svn" tvg-name="|EXYU| MRT 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MRT 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689612.ts
+#EXTINF:-1 tvg-id="MRT2.svn" tvg-name="|EXYU| MRT 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MRT 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689613.ts
+#EXTINF:-1 tvg-id="MRT1.svn" tvg-name="|EXYU| MRT 3" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MRT 3
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689614.ts
+#EXTINF:-1 tvg-id="MRT1.svn" tvg-name="|EXYU| MRT 4" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MRT 4
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689615.ts
+#EXTINF:-1 tvg-id="MRT1.svn" tvg-name="|EXYU| MRT 5  ( TEST )" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| MRT 5  ( TEST )
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689616.ts
+#EXTINF:-1 tvg-id="Vesti.rs" tvg-name="|EXYU| 24 VESTI" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| 24 VESTI
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689617.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.be" tvg-name="|EXYU| ANIMAL PLANET" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| ANIMAL PLANET
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689618.ts
+#EXTINF:-1 tvg-id="CinestarPremiere1.svn" tvg-name="|EXYU| CINESTAR PREMIERE 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| CINESTAR PREMIERE 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689619.ts
+#EXTINF:-1 tvg-id="CinestarPremiere2.svn" tvg-name="|EXYU| CINESTAR PREMIERE 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| CINESTAR PREMIERE 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689620.ts
+#EXTINF:-1 tvg-id="FolklorTV.bg" tvg-name="|EXYU| SKY FOLK TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| SKY FOLK TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689621.ts
+#EXTINF:-1 tvg-id="star.gr" tvg-name="|EXYU| STAR LIFE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| STAR LIFE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689622.ts
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="|EXYU| STAR MOVIES" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| STAR MOVIES
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689623.ts
+#EXTINF:-1 tvg-id="HBO.bg" tvg-name="|EXYU| HBO" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HBO
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689624.ts
+#EXTINF:-1 tvg-id="HBO3.bg" tvg-name="|EXYU| HBO 3" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HBO 3
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689625.ts
+#EXTINF:-1 tvg-id="TVOne.nz" tvg-name="|EXYU| HUGO TV 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HUGO TV 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689626.ts
+#EXTINF:-1 tvg-id="TV3.dk" tvg-name="|EXYU| HUGO TV 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HUGO TV 3 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689627.ts
+#EXTINF:-1 tvg-id="RTV1.nl" tvg-name="|EXYU| RTV 21 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| RTV 21 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689628.ts
+#EXTINF:-1 tvg-id="PlusTV.cy" tvg-name="|EXYU| TV PLUS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV PLUS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689629.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| TV SONCE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV SONCE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689630.ts
+#EXTINF:-1 tvg-id="Bedehuskanalen.no" tvg-name="|EXYU| USKANA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| USKANA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689631.ts
+#EXTINF:-1 tvg-id="ViasatExplore.gr" tvg-name="|EXYU| VIASAT EXPLORE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| VIASAT EXPLORE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689632.ts
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="|EXYU| VIASAT HISTORY" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| VIASAT HISTORY
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689633.ts
+#EXTINF:-1 tvg-id="AlsatMacedonia.svn" tvg-name="|EXYU| ALSAT M" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| ALSAT M
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689634.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="TV ORBIS MAKEDONIJA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", TV ORBIS MAKEDONIJA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689635.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| HUGO TV 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| HUGO TV 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689636.ts
+#EXTINF:-1 tvg-id="NETTV.mt" tvg-name="|EXYU| M Net" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| M Net
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689637.ts
+#EXTINF:-1 tvg-id="MAXSport1.bg" tvg-name="|EXYU| M Net Sport" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| M Net Sport
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689638.ts
+#EXTINF:-1 tvg-id="NETTV.mt" tvg-name="|EXYU| M Net Kids" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| M Net Kids
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689639.ts
+#EXTINF:-1 tvg-id="NETTV.mt" tvg-name="|EXYU| M Net Info" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| M Net Info
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689640.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| TV Zdravkin" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV Zdravkin
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689641.ts
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| Tera Bitola" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| Tera Bitola
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689642.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| Nasa TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| Nasa TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689643.ts
+#EXTINF:-1 tvg-id="TV1000.hr" tvg-name="|EXYU| TV 1000" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV 1000
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689644.ts
+#EXTINF:-1 tvg-id="JOJSvet.sk" tvg-name="|EXYU| TV SVET" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV SVET
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689645.ts
+#EXTINF:-1 tvg-id="WeDoTV.it" tvg-name="|EXYU| TV EDO" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TV EDO
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689646.ts
+#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="INTV AVSTRALIJA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", INTV AVSTRALIJA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689647.ts
+#EXTINF:-1 tvg-id="TV2.dk" tvg-name="|EXYU| SUTEL TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| SUTEL TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689648.ts
+#EXTINF:-1 tvg-id="PlanetaTV.bg" tvg-name="PLANETA TV FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", PLANETA TV FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689649.ts
+#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="|EXYU.SPO| ARENA SPORT 4 HD SR" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU.SPO| ARENA SPORT 4 HD SR
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689650.ts
+#EXTINF:-1 tvg-id="N1-SR.rs" tvg-name="|EXYU| N1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| N1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689651.ts
+#EXTINF:-1 tvg-id="TelmaTV.svn" tvg-name="|EXYU| TELMA HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| TELMA HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689652.ts
+#EXTINF:-1 tvg-id="PrvaTVsr.svn" tvg-name="|EXYU| PRVA TV FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| PRVA TV FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689653.ts
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-name="|EXYU| EURONEWS HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", |EXYU| EURONEWS HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85689654.ts
+#EXTINF:-1 tvg-id="ArenaEsport.rs" tvg-name="SI: ARENA ESPORT" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: ARENA ESPORT
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686197.ts
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="SI: ARENA SPORTS 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: ARENA SPORTS 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686198.ts
+#EXTINF:-1 tvg-id="MYSPORTS2D.ch" tvg-name="SI: ARENA SPORTS 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: ARENA SPORTS 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686199.ts
+#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-name="SI: ARENA SPORT 3" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: ARENA SPORT 3
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686200.ts
+#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="SI: ARENA SPORT 4" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: ARENA SPORT 4
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686201.ts
+#EXTINF:-1 tvg-id="SportKlubHD.hr" tvg-name="SI: SPORT KLUB HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT KLUB HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686202.ts
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SI: SPORT TV 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT TV 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686203.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SI: SPORT TV 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT TV 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686204.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SI: SPORT TV 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT TV 3 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686205.ts
+#EXTINF:-1 tvg-id="SportKlubGolf.hr" tvg-name="SI: SPORT KLUB GOLF FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT KLUB GOLF FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686206.ts
+#EXTINF:-1 tvg-id="SportKlub1.hr" tvg-name="SI: SPORT KLUB 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT KLUB 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686207.ts
+#EXTINF:-1 tvg-id="SportKlub2.hr" tvg-name="SI: SPORT KLUB 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT KLUB 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686208.ts
+#EXTINF:-1 tvg-id="SportKlub3.hr" tvg-name="SI: SPORT KLUB 3" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT KLUB 3
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686209.ts
+#EXTINF:-1 tvg-id="Sportklub4.svn" tvg-name="SI: SPORT KLUB 4" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT KLUB 4
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686210.ts
+#EXTINF:-1 tvg-id="Sportklub5.svn" tvg-name="SI: SPORT KLUB 5" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT KLUB 5
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686211.ts
+#EXTINF:-1 tvg-id="Sportklub6.svn" tvg-name="SI: SPORT KLUB 6" tvg-logo="" tvg-shift="0" group-title="SERVER 2", SI: SPORT KLUB 6
+http://pro-max.me:8089/live/4127132594149/4127132594149/85686212.ts
+#EXTINF:-1 tvg-id="" tvg-name="*********CHAINES SERBIA*******" tvg-logo="" tvg-shift="0" group-title="SERVER 2", *********CHAINES SERBIA*******
+http://pro-max.me:8089/live/4127132594149/4127132594149/0.ts
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684326.ts
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684327.ts
+#EXTINF:-1 tvg-id="ArenaSportPremium1.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 1 PREMIUM HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 1 PREMIUM HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684328.ts
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684329.ts
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684330.ts
+#EXTINF:-1 tvg-id="ArenaSportPremium2.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 2 PREMIUM HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 2 PREMIUM HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684331.ts
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 3" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 3
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684332.ts
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 3 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684333.ts
+#EXTINF:-1 tvg-id="ArenaSportPremium3.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 3 PREMIUM HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 3 PREMIUM HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684334.ts
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 4" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 4
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684335.ts
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 4 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 4 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684336.ts
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 5" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 5
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684337.ts
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="┃VIP-RS┃ ARENA SPORT 5 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ARENA SPORT 5 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684338.ts
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="┃VIP-RS┃ BIH ARENA SPORT 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ BIH ARENA SPORT 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684339.ts
+#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-name="┃VIP-RS┃ 24 KITCHEN" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ 24 KITCHEN
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684340.ts
+#EXTINF:-1 tvg-id="TVVijesti.hr" tvg-name="┃VIP-RS┃ 24 VIJESTI" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ 24 VIJESTI
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684341.ts
+#EXTINF:-1 tvg-id="AMC.bg" tvg-name="┃VIP-RS┃ AMC HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ AMC HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684342.ts
+#EXTINF:-1 tvg-id="AnimalPlanetHD.fi" tvg-name="┃VIP-RS┃ ANIMAL PLANET HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ANIMAL PLANET HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684343.ts
+#EXTINF:-1 tvg-id="AXNAdria.rs" tvg-name="┃VIP-RS┃ AXN ADRIA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ AXN ADRIA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684344.ts
+#EXTINF:-1 tvg-id="AXNSpin.hr" tvg-name="┃VIP-RS┃ AXN SPIN" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ AXN SPIN
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684345.ts
+#EXTINF:-1 tvg-id="B92.rs" tvg-name="┃VIP-RS┃ B92 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ B92 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684346.ts
+#EXTINF:-1 tvg-id="BabyTV.eu" tvg-name="┃VIP-RS┃ BABY TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ BABY TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684347.ts
+#EXTINF:-1 tvg-id="Balkanika.bg" tvg-name="┃VIP-RS┃ BALKANIKA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ BALKANIKA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684348.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="┃VIP-RS┃ MOJA TV SPORT" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ MOJA TV SPORT
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684349.ts
+#EXTINF:-1 tvg-id="Boomerang.bg" tvg-name="┃VIP-RS┃ BOOMERANG" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ BOOMERANG
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684350.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.cz" tvg-name="┃VIP-RS┃ CARTOON NETWORK" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CARTOON NETWORK
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684351.ts
+#EXTINF:-1 tvg-id="Cinemania.rs" tvg-name="┃VIP-RS┃ CINEMANIA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINEMANIA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684352.ts
+#EXTINF:-1 tvg-id="Cinemax1.hr" tvg-name="┃VIP-RS┃ CINEMAX 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINEMAX 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684353.ts
+#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="┃VIP-RS┃ CINEMAX 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINEMAX 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684354.ts
+#EXTINF:-1 tvg-id="CinestarTV2.hr" tvg-name="┃VIP-RS┃ CINESTAR 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINESTAR 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684355.ts
+#EXTINF:-1 tvg-id="CinestarFantasy.hr" tvg-name="┃VIP-RS┃ CINESTAR FANTASY" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINESTAR FANTASY
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684356.ts
+#EXTINF:-1 tvg-id="CinestarTV.hr" tvg-name="┃VIP-RS┃ CINESTAR HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINESTAR HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684357.ts
+#EXTINF:-1 tvg-id="CinestarPremiere2.svn" tvg-name="┃VIP-RS┃ CINESTAR PREMIERE 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINESTAR PREMIERE 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684358.ts
+#EXTINF:-1 tvg-id="CineStarTVAction.hr" tvg-name="┃VIP-RS┃ CINESTAR TV ACTION" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINESTAR TV ACTION
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684359.ts
+#EXTINF:-1 tvg-id="CineStarTVPremiere1.hr" tvg-name="┃VIP-RS┃ CINESTAR TV PREMIERE 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CINESTAR TV PREMIERE 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684360.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="┃VIP-RS┃ CRIME & INVESTIGATION NETWORK" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ CRIME & INVESTIGATION NETWORK
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684361.ts
+#EXTINF:-1 tvg-id="DaVinciLearning.bg" tvg-name="┃VIP-RS┃ DA VINCI LEARNING" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DA VINCI LEARNING
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684362.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="┃VIP-RS┃ DISCOVERY CHANNEL HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DISCOVERY CHANNEL HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684363.ts
+#EXTINF:-1 tvg-id="DiscoveryHD.dk" tvg-name="┃VIP-RS┃ DISCOVERY DTX HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DISCOVERY DTX HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684364.ts
+#EXTINF:-1 tvg-id="DiscoveryHD.dk" tvg-name="┃VIP-RS┃ DISCOVERY ID HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DISCOVERY ID HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684365.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.rs" tvg-name="┃VIP-RS┃ DISCOVERY SC HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DISCOVERY SC HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684366.ts
+#EXTINF:-1 tvg-id="DiscoveryIDXtra.svn" tvg-name="┃VIP-RS┃ DISCOVERY ID" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DISCOVERY ID
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684367.ts
+#EXTINF:-1 tvg-id="DisneyChannel.rs" tvg-name="┃VIP-RS┃ DISNEY CHANNEL" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DISNEY CHANNEL
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684368.ts
+#EXTINF:-1 tvg-id="Diva.hr" tvg-name="┃VIP-RS┃ DIVA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DIVA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684369.ts
+#EXTINF:-1 tvg-id="DocuBox.bg" tvg-name="┃VIP-RS┃ DOCU BOX" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DOCU BOX
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684370.ts
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="┃VIP-RS┃ DUGA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DUGA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684371.ts
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="┃VIP-RS┃ E!" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ E!
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684372.ts
+#EXTINF:-1 tvg-id="EPICDramaHD.svn" tvg-name="┃VIP-RS┃ EPIC DRAMA HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ EPIC DRAMA HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684373.ts
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="┃VIP-RS┃ EURONEWS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ EURONEWS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684374.ts
+#EXTINF:-1 tvg-id="FilmKlub.rs" tvg-name="┃VIP-RS┃ FILM KLUB" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ FILM KLUB
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684375.ts
+#EXTINF:-1 tvg-id="FilmboxPremium.cz" tvg-name="┃VIP-RS┃ FILMBOX PREMIUM" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ FILMBOX PREMIUM
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684376.ts
+#EXTINF:-1 tvg-id="FilmBoxPlus.hr" tvg-name="┃VIP-RS┃ FILMBOXPLUS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ FILMBOXPLUS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684377.ts
+#EXTINF:-1 tvg-id="FOXCrime.bg" tvg-name="┃VIP-RS┃ FOX CRIME" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ FOX CRIME
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684378.ts
+#EXTINF:-1 tvg-id="FOX.be" tvg-name="┃VIP-RS┃ FOX HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ FOX HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684379.ts
+#EXTINF:-1 tvg-id="FOXLife.bg" tvg-name="┃VIP-RS┃ FOX LIFE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ FOX LIFE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684380.ts
+#EXTINF:-1 tvg-id="FoxMovies.hr" tvg-name="┃VIP-RS┃ FOX MOVIES" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ FOX MOVIES
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684381.ts
+#EXTINF:-1 tvg-id="PinkReality.rs" tvg-name="┃VIP-RS┃ HAPPY REALITY" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HAPPY REALITY
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684382.ts
+#EXTINF:-1 tvg-id="PinkReality.rs" tvg-name="┃VIP-RS┃ HAPPY REALITY 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HAPPY REALITY 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684383.ts
+#EXTINF:-1 tvg-id="HappyTV.hr" tvg-name="┃VIP-RS┃ HAPPY TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HAPPY TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684384.ts
+#EXTINF:-1 tvg-id="HBO3hd.svn" tvg-name="┃VIP-RS┃ HBO 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HBO 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684385.ts
+#EXTINF:-1 tvg-id="HBO2.bg" tvg-name="┃VIP-RS┃ HBO 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HBO 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684386.ts
+#EXTINF:-1 tvg-id="HBO3hd.svn" tvg-name="┃VIP-RS┃ HBO 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HBO 3 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684387.ts
+#EXTINF:-1 tvg-id="HBOAdria.hr" tvg-name="┃VIP-RS┃ HBO ADRIA HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HBO ADRIA HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684388.ts
+#EXTINF:-1 tvg-id="HGTV.rs" tvg-name="┃VIP-RS┃ HGTV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HGTV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684389.ts
+#EXTINF:-1 tvg-id="History.rs" tvg-name="┃VIP-RS┃ HISTORY 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HISTORY 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684390.ts
+#EXTINF:-1 tvg-id="HistoryChannel.be" tvg-name="┃VIP-RS┃ HISTORY CHANNEL" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ HISTORY CHANNEL
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684391.ts
+#EXTINF:-1 tvg-id="K1.rs" tvg-name="┃VIP-RS┃ K1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ K1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684392.ts
+#EXTINF:-1 tvg-id="KlasikTV.hr" tvg-name="┃VIP-RS┃ KLASIK TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ KLASIK TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684393.ts
+#EXTINF:-1 tvg-id="KurirTV.ba" tvg-name="┃VIP-RS┃ KURIR HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ KURIR HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684394.ts
+#EXTINF:-1 tvg-id="Loviribolov.rs" tvg-name="┃VIP-RS┃ LOV I RIBOLOV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ LOV I RIBOLOV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684395.ts
+#EXTINF:-1 tvg-id="MiniTV.hr" tvg-name="┃VIP-RS┃ MINI TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ MINI TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684396.ts
+#EXTINF:-1 tvg-id="Minimax.rs" tvg-name="┃VIP-RS┃ MINIMAX" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ MINIMAX
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684397.ts
+#EXTINF:-1 tvg-id="TVDR.rs" tvg-name="┃VIP-RS┃ MLAVA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ MLAVA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684398.ts
+#EXTINF:-1 tvg-id="N1-SR.rs" tvg-name="┃VIP-RS┃ N1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ N1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684399.ts
+#EXTINF:-1 tvg-id="N1-SR.rs" tvg-name="┃VIP-RS┃ N1 INFO SRB" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ N1 INFO SRB
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684400.ts
+#EXTINF:-1 tvg-id="RTS1Srbija.svn" tvg-name="┃VIP-RS┃ N1 SRBIJA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ N1 SRBIJA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684401.ts
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="┃VIP-RS┃ NATIONAL GEO HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ NATIONAL GEO HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684402.ts
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="┃VIP-RS┃ NATIONAL GEO WILD HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ NATIONAL GEO WILD HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684403.ts
+#EXTINF:-1 tvg-id="Nickelodeon.rs" tvg-name="┃VIP-RS┃ NICKELODEON" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ NICKELODEON
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684404.ts
+#EXTINF:-1 tvg-id="NickJr.rs" tvg-name="┃VIP-RS┃ NICK JR" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ NICK JR
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684405.ts
+#EXTINF:-1 tvg-id="NovaMax.rs" tvg-name="┃VIP-RS┃ NOVA M" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ NOVA M
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684406.ts
+#EXTINF:-1 tvg-id="Nova.rs" tvg-name="┃VIP-RS┃ NOVA HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ NOVA HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684407.ts
+#EXTINF:-1 tvg-id="NovaS.rs" tvg-name="┃VIP-RS┃ NOVA S HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ NOVA S HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684408.ts
+#EXTINF:-1 tvg-id="NovaTVhr.svn" tvg-name="┃VIP-RS┃ NOVA TV HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ NOVA TV HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684409.ts
+#EXTINF:-1 tvg-id="O2.svn" tvg-name="┃VIP-RS┃ O2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ O2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684410.ts
+#EXTINF:-1 tvg-id="OBN.hr" tvg-name="┃VIP-RS┃ OBN HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ OBN HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684411.ts
+#EXTINF:-1 tvg-id="PalmaPlus.rs" tvg-name="┃VIP-RS┃ PALMA PLUS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PALMA PLUS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684412.ts
+#EXTINF:-1 tvg-id="TVDR.rs" tvg-name="┃VIP-RS┃ PARTIZAN TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PARTIZAN TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684413.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684414.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK ZADRUGA 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK ZADRUGA 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684415.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK ZADRUGA 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK ZADRUGA 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684416.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK ZADRUGA 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK ZADRUGA 3 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684417.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK ZADRUGA 4 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK ZADRUGA 4 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684418.ts
+#EXTINF:-1 tvg-id="Pickbox.hr" tvg-name="┃VIP-RS┃ PICKBOX" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PICKBOX
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684419.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK 1 FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK 1 FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684420.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684421.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK 3" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK 3
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684422.ts
+#EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="┃VIP-RS┃ PINK ACTION" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK ACTION
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684423.ts
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="┃VIP-RS┃ PINK BIH" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK BIH
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684424.ts
+#EXTINF:-1 tvg-id="PinkClassic.rs" tvg-name="┃VIP-RS┃ PINK CLASSIC" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK CLASSIC
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684425.ts
+#EXTINF:-1 tvg-id="PinkComedy.hr" tvg-name="┃VIP-RS┃ PINK COMEDY" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK COMEDY
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684426.ts
+#EXTINF:-1 tvg-id="PinkExtra.svn" tvg-name="┃VIP-RS┃ PINK EXTRA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK EXTRA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684427.ts
+#EXTINF:-1 tvg-id="PinkFamily.hr" tvg-name="┃VIP-RS┃ PINK FAMILY" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK FAMILY
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684428.ts
+#EXTINF:-1 tvg-id="PinkFilm.rs" tvg-name="┃VIP-RS┃ PINK FILM" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK FILM
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684429.ts
+#EXTINF:-1 tvg-id="Haha.rs" tvg-name="┃VIP-RS┃ PINK HAHA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK HAHA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684430.ts
+#EXTINF:-1 tvg-id="PinkHits1.rs" tvg-name="┃VIP-RS┃ PINK HITS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK HITS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684431.ts
+#EXTINF:-1 tvg-id="PinkHorror.hr" tvg-name="┃VIP-RS┃ PINK HORROR" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK HORROR
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684432.ts
+#EXTINF:-1 tvg-id="PinkKids.rs" tvg-name="┃VIP-RS┃ PINK KIDS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK KIDS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684433.ts
+#EXTINF:-1 tvg-id="PinkKuvar.rs" tvg-name="┃VIP-RS┃ PINK KUVAR" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK KUVAR
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684434.ts
+#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="┃VIP-RS┃ PINK MOVIES" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK MOVIES
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684435.ts
+#EXTINF:-1 tvg-id="PinkMusic.rs" tvg-name="┃VIP-RS┃ PINK MUSIC" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK MUSIC
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684436.ts
+#EXTINF:-1 tvg-id="PinkMusic2.rs" tvg-name="┃VIP-RS┃ PINK MUSIC 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK MUSIC 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684437.ts
+#EXTINF:-1 tvg-id="PinkPedia.rs" tvg-name="┃VIP-RS┃ PINK PEDIA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK PEDIA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684438.ts
+#EXTINF:-1 tvg-id="PINKPlus.hr" tvg-name="┃VIP-RS┃ PINK PLUS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK PLUS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684439.ts
+#EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="┃VIP-RS┃ PINK PREMIUM" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK PREMIUM
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684440.ts
+#EXTINF:-1 tvg-id="PinkReality.rs" tvg-name="┃VIP-RS┃ PINK REALITY" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK REALITY
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684441.ts
+#EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="┃VIP-RS┃ PINK ROMANCE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK ROMANCE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684442.ts
+#EXTINF:-1 tvg-id="PinkSci-FiFantasy.rs" tvg-name="┃VIP-RS┃ PINK SCI-FI AND FANTASY" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK SCI-FI AND FANTASY
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684443.ts
+#EXTINF:-1 tvg-id="PinkSerije.rs" tvg-name="┃VIP-RS┃ PINK SERIJE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK SERIJE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684444.ts
+#EXTINF:-1 tvg-id="PinkSoap.rs" tvg-name="┃VIP-RS┃ PINK SOAP" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK SOAP
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684445.ts
+#EXTINF:-1 tvg-id="PinkStyle.rs" tvg-name="┃VIP-RS┃ PINK STYLE" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK STYLE
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684446.ts
+#EXTINF:-1 tvg-id="PinkSuperKids.rs" tvg-name="┃VIP-RS┃ PINK SUPER KIDS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK SUPER KIDS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684447.ts
+#EXTINF:-1 tvg-id="PinkThriller.rs" tvg-name="┃VIP-RS┃ PINK THRILLER" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK THRILLER
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684448.ts
+#EXTINF:-1 tvg-id="PinkWestern.rs" tvg-name="┃VIP-RS┃ PINK WESTERN" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK WESTERN
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684449.ts
+#EXTINF:-1 tvg-id="PinkWorld.rs" tvg-name="┃VIP-RS┃ PINK WORLD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK WORLD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684450.ts
+#EXTINF:-1 tvg-id="PinkWorldCinema.rs" tvg-name="┃VIP-RS┃ PINK WORLD CINEMA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK WORLD CINEMA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684451.ts
+#EXTINF:-1 tvg-id="PinkZabava.rs" tvg-name="┃VIP-RS┃ PINK ZABAVA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PINK ZABAVA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684452.ts
+#EXTINF:-1 tvg-id="PrvaMAX.rs" tvg-name="┃VIP-RS┃ PRVA 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PRVA 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684453.ts
+#EXTINF:-1 tvg-id="PrvaMAX.rs" tvg-name="┃VIP-RS┃ PRVA 1 FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PRVA 1 FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684454.ts
+#EXTINF:-1 tvg-id="PrvaMAX.rs" tvg-name="┃VIP-RS┃ PRVA 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PRVA 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684455.ts
+#EXTINF:-1 tvg-id="PrvaFiles.rs" tvg-name="┃VIP-RS┃ PRVA FILES" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PRVA FILES
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684456.ts
+#EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="┃VIP-RS┃ PRVA KICK" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PRVA KICK
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684457.ts
+#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="┃VIP-RS┃ PRVA PLUS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PRVA PLUS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684458.ts
+#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="┃VIP-RS┃ PRVA WORLD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ PRVA WORLD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684459.ts
+#EXTINF:-1 tvg-id="RedTV.rs" tvg-name="┃VIP-RS┃ RED TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RED TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684460.ts
+#EXTINF:-1 tvg-id="RTRS.rs" tvg-name="┃VIP-RS┃ RTRS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTRS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684461.ts
+#EXTINF:-1 tvg-id="RTRS.rs" tvg-name="┃VIP-RS┃ RTRS PLUS" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTRS PLUS
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684462.ts
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="┃VIP-RS┃ RTS 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684463.ts
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="┃VIP-RS┃ RTS 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS 2 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684464.ts
+#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="┃VIP-RS┃ RTS 3" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS 3
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684465.ts
+#EXTINF:-1 tvg-id="RTSDrama.rs" tvg-name="┃VIP-RS┃ RTS DRAMA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS DRAMA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684466.ts
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="┃VIP-RS┃ RTS FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS FHD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684467.ts
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="┃VIP-RS┃ RTS HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684468.ts
+#EXTINF:-1 tvg-id="RTSKolo.rs" tvg-name="┃VIP-RS┃ RTS KOLO" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS KOLO
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684469.ts
+#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="┃VIP-RS┃ RTS SVET" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS SVET
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684470.ts
+#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="┃VIP-RS┃ RTS SVET HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS SVET HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684471.ts
+#EXTINF:-1 tvg-id="RTSTrezor.rs" tvg-name="┃VIP-RS┃ RTS TREZOR" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS TREZOR
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684472.ts
+#EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="┃VIP-RS┃ RTS ZIVOT" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTS ZIVOT
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684473.ts
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="┃VIP-RS┃ RTV 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTV 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684474.ts
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="┃VIP-RS┃ RTV 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTV 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684475.ts
+#EXTINF:-1 tvg-id="DTX.cz" tvg-name="┃VIP-RS┃ DTX" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ DTX
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684476.ts
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="┃VIP-RS┃ RTV NOVI PAZAR" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTV NOVI PAZAR
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684477.ts
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-name="┃VIP-RS┃ RTV VOJVODINA 1" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTV VOJVODINA 1
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684478.ts
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-name="┃VIP-RS┃ RTV VOJVODINA 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ RTV VOJVODINA 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684479.ts
+#EXTINF:-1 tvg-id="SportskaTelevizija.hr" tvg-name="┃VIP-RS┃ SPORTSKA TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ SPORTSKA TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684480.ts
+#EXTINF:-1 tvg-id="StudioB.sr" tvg-name="┃VIP-RS┃ STUDIO B" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ STUDIO B
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684481.ts
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="┃VIP-RS┃ SUPER STAR 2 TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ SUPER STAR 2 TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684482.ts
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="┃VIP-RS┃ SUPER STAR TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ SUPER STAR TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684483.ts
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="┃VIP-RS┃ SUPER TV" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ SUPER TV
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684484.ts
+#EXTINF:-1 tvg-id="ToxicFolk.rs" tvg-name="┃VIP-RS┃ TOXIC FOLK" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ TOXIC FOLK
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684485.ts
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-name="┃VIP-RS┃ TV HRAM" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ TV HRAM
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684486.ts
+#EXTINF:-1 tvg-id="TVDR.rs" tvg-name="┃VIP-RS┃ TV ISTOK" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ TV ISTOK
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684487.ts
+#EXTINF:-1 tvg-id="TVDR.rs" tvg-name="┃VIP-RS┃ TV JEFIMIJA KRUSEVAC" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ TV JEFIMIJA KRUSEVAC
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684488.ts
+#EXTINF:-1 tvg-id="TVDR.rs" tvg-name="┃VIP-RS┃ TV KRUSEVAC" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ TV KRUSEVAC
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684489.ts
+#EXTINF:-1 tvg-id="NovaTVhr.svn" tvg-name="┃VIP-RS┃ TV NOVA" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ TV NOVA
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684490.ts
+#EXTINF:-1 tvg-id="TV1000.hr" tvg-name="┃VIP-RS┃ TV1000" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ TV1000
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684491.ts
+#EXTINF:-1 tvg-id="Vavoom.hr" tvg-name="┃VIP-RS┃ VAVOOM" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ VAVOOM
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684492.ts
+#EXTINF:-1 tvg-id="RTRPlaneta.rs" tvg-name="┃VIP-RS┃ YU PLANET" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ YU PLANET
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684493.ts
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="┃VIP-RS┃ ZADRUGA LIVE 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ZADRUGA LIVE 1 HD
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684494.ts
+#EXTINF:-1 tvg-id="VsportLive2.no" tvg-name="┃VIP-RS┃ ZADRUGA LIVE 2" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ZADRUGA LIVE 2
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684495.ts
+#EXTINF:-1 tvg-id="VsportLive3.no" tvg-name="┃VIP-RS┃ ZADRUGA LIVE 3" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ZADRUGA LIVE 3
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684496.ts
+#EXTINF:-1 tvg-id="VsportLive4.no" tvg-name="┃VIP-RS┃ ZADRUGA LIVE 4" tvg-logo="" tvg-shift="0" group-title="SERVER 2", ┃VIP-RS┃ ZADRUGA LIVE 4
+http://pro-max.me:8089/live/4127132594149/4127132594149/85684497.ts
+
