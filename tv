@@ -1920,5 +1920,208 @@ http://36892-amazon.oot-mx.me:80/1b20691bcc/52494d327147/1569802
 #EXTINF:-1 tvg-id="TheBox.uk" tvg-name="EXYU| RISE OF THE FOOTSOLDIER" tvg-logo="" tvg-shift="0" group-title="SERVER 2", EXYU| RISE OF THE FOOTSOLDIER
 http://36892-amazon.oot-mx.me:80/1b20691bcc/52494d327147/1569801
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Loviribolov.rs" tvg-name="RS| LOV I RIBOLOV" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| LOV I RIBOLOV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110841&extension=ts&play_token=vBCfWFH38k
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="RS| CRIME & INVESTIGATION NETWORK" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CRIME & INVESTIGATION NETWORK
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110886&extension=ts&play_token=honeiJOZwZ
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="RS| DISCOVERY CHANNEL" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DISCOVERY CHANNEL
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110885&extension=ts&play_token=ceARTYhyCF
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="RS| DISCOVERY CHANNEL HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DISCOVERY CHANNEL HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110884&extension=ts&play_token=ytw4g4YBAt
+#EXTINF:-1 tvg-id="DiscoveryIDXtra.svn" tvg-name="RS| DISCOVERY ID" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DISCOVERY ID
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110883&extension=ts&play_token=6dxcUdcUs2
+#EXTINF:-1 tvg-id="DiscoveryScience.rs" tvg-name="RS| DISCOVERY SCIENCE" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DISCOVERY SCIENCE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161985&extension=ts&play_token=DtJNfPStRu
+#EXTINF:-1 tvg-id="DiscoveryScience.rs" tvg-name="RS| DISCOVERY SC" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DISCOVERY SC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110882&extension=ts&play_token=FzdsBCH810
+#EXTINF:-1 tvg-id="DiscoveryHD.dk" tvg-name="RS| DISCOVERY SHOWCASE HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DISCOVERY SHOWCASE HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110881&extension=ts&play_token=URfcqMlMbx
+#EXTINF:-1 tvg-id="discovery.gr" tvg-name="RS| DISCOVERY WORLD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DISCOVERY WORLD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110880&extension=ts&play_token=C96VHjk8YY
+#EXTINF:-1 tvg-id="Discovery+Extra1.se" tvg-name="RS| DISCOVERY XTRA" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DISCOVERY XTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110879&extension=ts&play_token=pzhuCyFHoT
+#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-name="RS| 24 KITCHEN" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| 24 KITCHEN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110920&extension=ts&play_token=wsi61tgMYb
+#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-name="RS| 24KITCHEN HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| 24KITCHEN HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110919&extension=ts&play_token=KmUix8Nuby
+#EXTINF:-1 tvg-id="PinkSyfy.rs" tvg-name="RS| SYFY" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| SYFY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110760&extension=ts&play_token=4utyGHepug
+#EXTINF:-1 tvg-id="AnimalPlanet.be" tvg-name="RS| ANIMAL PLANET" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| ANIMAL PLANET
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110916&extension=ts&play_token=5fC93p4gHl
+#EXTINF:-1 tvg-id="AnimalPlanetHD.fi" tvg-name="RS| ANIMAL PLANET HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| ANIMAL PLANET HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110915&extension=ts&play_token=dcE5ajiT2m
+#EXTINF:-1 tvg-id="HGTV.rs" tvg-name="RS| HGTV" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HGTV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1469080&extension=ts&play_token=og7vcSJaFp
+#EXTINF:-1 tvg-id="BalkanTrip.rs" tvg-name="RS| BALKAN TRIP TV" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| BALKAN TRIP TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1022222&extension=ts&play_token=AUHCTi4tvR
+#EXTINF:-1 tvg-id="DaVinciLearning.bg" tvg-name="RS| DA VINCI LEARNING" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DA VINCI LEARNING
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161986&extension=ts&play_token=DlvfEO7PrQ
+#EXTINF:-1 tvg-id="DocuBox.bg" tvg-name="RS| DOCU BOX" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DOCU BOX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110874&extension=ts&play_token=jireb6oIg0
+#EXTINF:-1 tvg-id="DTX.cz" tvg-name="RS| DTX" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DTX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110878&extension=ts&play_token=rIITwXIdWv
+#EXTINF:-1 tvg-id="FoodNetwork.bg" tvg-name="RS| FOOD NETWORK" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| FOOD NETWORK
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110863&extension=ts&play_token=tZsaBHa7bp
+#EXTINF:-1 tvg-id="HistoryChannel.be" tvg-name="RS| HISTORY CHANNEL" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HISTORY CHANNEL
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110847&extension=ts&play_token=pn8kF2KD67
+#EXTINF:-1 tvg-id="HistoryChannel.be" tvg-name="RS| HISTORY CHANNEL HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HISTORY CHANNEL HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110846&extension=ts&play_token=2Q0Di7qeKy
+#EXTINF:-1 tvg-id="History.rs" tvg-name="RS| HISTORY 2" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HISTORY 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110848&extension=ts&play_token=dnTQOX6E53
+#EXTINF:-1 tvg-id="History.rs" tvg-name="RS| HISTORY H2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HISTORY H2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110845&extension=ts&play_token=y6RFVElMsN
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="RS| NGC HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NGC HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110833&extension=ts&play_token=385D2FE9Kt
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="RS| NATIONAL GEO" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NATIONAL GEO
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110835&extension=ts&play_token=oH5w9k9Qqm
+#EXTINF:-1 tvg-id="NatGeoWildHD.dk" tvg-name="RS| NGC WILD HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NGC WILD HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110832&extension=ts&play_token=m7tlSeYuNf
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="RS| NATIONAL GEO WILD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NATIONAL GEO WILD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110834&extension=ts&play_token=3lwn58eZ75
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="RS| NATIONAL GEOGRAPHIC FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NATIONAL GEOGRAPHIC FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161984&extension=ts&play_token=m0zIcBmExR
+#EXTINF:-1 tvg-id="BBCEarth.cz" tvg-name="RS| BBC EARTH" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| BBC EARTH
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110901&extension=ts&play_token=qxIiTVaILC
+#EXTINF:-1 tvg-id="BBCFirst.nl" tvg-name="RS| BBC EARHT HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| BBC EARHT HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110900&extension=ts&play_token=cPpTN0l4ui
+#EXTINF:-1 tvg-id="ViasatExplorer.svn" tvg-name="RS| VIASAT EXPLORE" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| VIASAT EXPLORE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110753&extension=ts&play_token=QLo5WcRYgL
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="RS| VIASAT HISTORY" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| VIASAT HISTORY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110752&extension=ts&play_token=DHuntb7k0d
+#EXTINF:-1 tvg-id="ViasatHistoryHD.cz" tvg-name="RS| VIASAT HISTORY HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| VIASAT HISTORY HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110751&extension=ts&play_token=EcCAF04TTy
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="RS| VIASAT NATURE" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| VIASAT NATURE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110750&extension=ts&play_token=NR0w1sj6P6
+#EXTINF:-1 tvg-id="E!Entertainment.gr" tvg-name="RS| E! ENTERTAINMENT" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| E! ENTERTAINMENT
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110871&extension=ts&play_token=Z8eoetsYQg
+#EXTINF:-1 tvg-id="CBSReality.bg" tvg-name="RS| CBS REALITY" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CBS REALITY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110896&extension=ts&play_token=B20ZVLEWZ7
+#EXTINF:-1 tvg-id="TLC.be" tvg-name="RS| TLC" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| TLC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110759&extension=ts&play_token=QAOvE7Xr5H
+#EXTINF:-1 tvg-id="TravelChannel.bg" tvg-name="RS| TRAVEL CHANNEL" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| TRAVEL CHANNEL
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110758&extension=ts&play_token=OHjXPDZuGc
+#EXTINF:-1 tvg-id="Woman.hr" tvg-name="RS| WOMAN" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| WOMAN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110749&extension=ts&play_token=qyefrDqODJ
+#EXTINF:-1 tvg-id="ATGLive.se" tvg-name="RS| PAROVI LIVE" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| PAROVI LIVE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161906&extension=ts&play_token=f2H8qKHywh
+#EXTINF:-1 tvg-id="Pickbox.hr" tvg-name="RS| PICKBOX" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| PICKBOX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110826&extension=ts&play_token=3G4ir8NlCZ
+#EXTINF:-1 tvg-id="KlasikTV.hr" tvg-name="HR| KLASIK TV" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| KLASIK TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110711&extension=ts&play_token=4jZ4WU7d8M
+#EXTINF:-1 tvg-id="HBO3hd.svn" tvg-name="RS| HBO HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HBO HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110849&extension=ts&play_token=EfwUu9K21I
+#EXTINF:-1 tvg-id="HBO.bg" tvg-name="RS| HBO 1 FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HBO 1 FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161966&extension=ts&play_token=ozX1dFE4CI
+#EXTINF:-1 tvg-id="HBO2.bg" tvg-name="RS| HBO 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HBO 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110851&extension=ts&play_token=23uENJ4rcc
+#EXTINF:-1 tvg-id="HBO2.bg" tvg-name="RS| HBO 2 FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HBO 2 FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161967&extension=ts&play_token=X3KTOGdvKR
+#EXTINF:-1 tvg-id="HBO3hd.svn" tvg-name="RS| HBO 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HBO 3 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110850&extension=ts&play_token=RZIWW65Hr4
+#EXTINF:-1 tvg-id="HBO3.bg" tvg-name="RS| HBO 3 FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| HBO 3 FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161968&extension=ts&play_token=FkQMMYEIRH
+#EXTINF:-1 tvg-id="AMC.bg" tvg-name="RS| AMC HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| AMC HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110917&extension=ts&play_token=nUBw48PXHB
+#EXTINF:-1 tvg-id="AMC.bg" tvg-name="RS| AMC" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| AMC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110918&extension=ts&play_token=kue62avI3m
+#EXTINF:-1 tvg-id="AXNSpin.hr" tvg-name="RS| AXN SPIN" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| AXN SPIN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110904&extension=ts&play_token=pkKa7KwHWE
+#EXTINF:-1 tvg-id="AXNAdria.rs" tvg-name="RS| AXN" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| AXN
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161983&extension=ts&play_token=BGcLNxATSu
+#EXTINF:-1 tvg-id="Cinemania.rs" tvg-name="RS| CINEMANIA" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINEMANIA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110894&extension=ts&play_token=OyTmXSL7St
+#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="RS| CINEMAX HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINEMAX HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110893&extension=ts&play_token=EbJ8oWf0eu
+#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="RS| CINEMAX 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINEMAX 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110892&extension=ts&play_token=lihdh5YfVl
+#EXTINF:-1 tvg-id="CinestarTV.hr" tvg-name="RS| CINESTAR TV" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINESTAR TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110888&extension=ts&play_token=Sf3qzZRJ6Q
+#EXTINF:-1 tvg-id="CinestarTV2.hr" tvg-name="HR| CINESTAR TV 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| CINESTAR TV 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1565921&extension=ts&play_token=piPql7RWAj
+#EXTINF:-1 tvg-id="CineStarTVAction.hr" tvg-name="HR| CINESTAR ACTION" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| CINESTAR ACTION
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161965&extension=ts&play_token=CC1C12hF6N
+#EXTINF:-1 tvg-id="CineStarTVAction.hr" tvg-name="RS| CINESTAR ACTION" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINESTAR ACTION
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110891&extension=ts&play_token=8Ra4xJaFRa
+#EXTINF:-1 tvg-id="CinestarComedy.svn" tvg-name="RS| CINESTAR COMEDY" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINESTAR COMEDY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161964&extension=ts&play_token=6eVfRFOdAf
+#EXTINF:-1 tvg-id="CinestarFantasy.hr" tvg-name="RS| CINESTAR FANTASY" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINESTAR FANTASY
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161963&extension=ts&play_token=ZBHDnZI49J
+#EXTINF:-1 tvg-id="CinestarPremiere1.svn" tvg-name="RS| CINESTAR PREMIERE 1" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINESTAR PREMIERE 1
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110890&extension=ts&play_token=bXdnyi4osN
+#EXTINF:-1 tvg-id="CinestarPremiere2.svn" tvg-name="RS| CINESTAR PREMIERE 2" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINESTAR PREMIERE 2
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110889&extension=ts&play_token=HmibtWckD2
+#EXTINF:-1 tvg-id="FilmBoxExtra.bg" tvg-name="RS| FILMBOX EXTRA" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| FILMBOX EXTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161958&extension=ts&play_token=bU2MzVqz0I
+#EXTINF:-1 tvg-id="FilmKlubExtra.rs" tvg-name="RS| FILM KLUB EXTRA" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| FILM KLUB EXTRA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110867&extension=ts&play_token=egzz2uongR
+#EXTINF:-1 tvg-id="AXNAdria.rs" tvg-name="RS| AXN ADRIA" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| AXN ADRIA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110905&extension=ts&play_token=joRpFMqXhB
+#EXTINF:-1 tvg-id="CinestarTV.hr" tvg-name="RS| CINESTAR TV HR" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CINESTAR TV HR
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161962&extension=ts&play_token=DiahQiZBfW
+#EXTINF:-1 tvg-id="FilmboxPremium.cz" tvg-name="RS| FILMBOX PREMIUM HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| FILMBOX PREMIUM HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161959&extension=ts&play_token=stdxPng7Xh
+#EXTINF:-1 tvg-id="star.gr" tvg-name="RS| STAR" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| STAR
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110862&extension=ts&play_token=AF4pLbzQJC
+#EXTINF:-1 tvg-id="PinkCrime.rs" tvg-name="RS| STAR CRIME HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| STAR CRIME HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110860&extension=ts&play_token=UU8UAqJllS
+#EXTINF:-1 tvg-id="star.gr" tvg-name="RS| STAR HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| STAR HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110859&extension=ts&play_token=pH0T5HgMm6
+#EXTINF:-1 tvg-id="PinkCrime.rs" tvg-name="RS| STAR CRIME FHD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| STAR CRIME FHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161982&extension=ts&play_token=ZNxFoStjOW
+#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="RS| STAR MOVIES HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| STAR MOVIES HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110855&extension=ts&play_token=sOeI7UNJI4
+#EXTINF:-1 tvg-id="PrvaLife.rs" tvg-name="RS| STAR LIFE" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| STAR LIFE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110858&extension=ts&play_token=Cvc03xvhJl
+#EXTINF:-1 tvg-id="PrvaLife.rs" tvg-name="RS| STAR LIFE HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| STAR LIFE HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110857&extension=ts&play_token=CH0BDvOYhP
+#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="RS| STAR MOVIES" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| STAR MOVIES
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110856&extension=ts&play_token=SNg0NJGKCt
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="RS| CROMAX SELECT HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| CROMAX SELECT HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1683781&extension=ts&play_token=2fc9smceKh
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="RS| GORA SELECT 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| GORA SELECT 1 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1683780&extension=ts&play_token=LIp54PrDil
+#EXTINF:-1 tvg-id="FilmKlub.rs" tvg-name="RS| NETIP FILM 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NETIP FILM 3 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1683779&extension=ts&play_token=sF6TkqwR7i
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="RS| NETIP FILM 4 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NETIP FILM 4 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1683778&extension=ts&play_token=ZDaN6aS7mR
+#EXTINF:-1 tvg-id="Cinemania.rs" tvg-name="RS| NETIP CINEMA 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NETIP CINEMA 3 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1683777&extension=ts&play_token=xfry5vOA66
+#EXTINF:-1 tvg-id="Cinemania.rs" tvg-name="RS| NETIP CINEMA 4 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NETIP CINEMA 4 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1683776&extension=ts&play_token=8JSipJopV9
+#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="RS| NETIP MOVIES 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| NETIP MOVIES 3 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=1683775&extension=ts&play_token=PzTOHC7TLb
+#EXTINF:-1 tvg-id="TV1000.hr" tvg-name="RS| TV1000" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| TV1000
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110756&extension=ts&play_token=DKwgmDzTQP
+#EXTINF:-1 tvg-id="Diva.hr" tvg-name="RS| DIVA" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| DIVA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110876&extension=ts&play_token=8pEr7Yr5uH
+#EXTINF:-1 tvg-id="SciFi.de" tvg-name="RS| SCIFI" tvg-logo="" tvg-shift="0" group-title="SERVER 3", RS| SCIFI
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110794&extension=ts&play_token=kiS4EWHlK5
+#EXTINF:-1 tvg-id="EpicDrama.hr" tvg-name="HR| EPIC DRAMA" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| EPIC DRAMA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110727&extension=ts&play_token=cM3HlHukZJ
+#EXTINF:-1 tvg-id="KinoTV.hr" tvg-name="HR| KINO TV" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| KINO TV
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110712&extension=ts&play_token=CRbXZtjd5v
+#EXTINF:-1 tvg-id="M1Film.hr" tvg-name="HR| M1 FILM" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| M1 FILM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110708&extension=ts&play_token=RONFUuKdVA
+#EXTINF:-1 tvg-id="M1Film.hr" tvg-name="HR| M1 GOLD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| M1 GOLD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=110707&extension=ts&play_token=TwAVh431GV
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| NET IP SELECT 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| NET IP SELECT 1 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161969&extension=ts&play_token=v9jmU1Pm9D
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| NET IP SELECT 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| NET IP SELECT 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161970&extension=ts&play_token=nDe6iL9Hke
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| NET IP SELECT 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| NET IP SELECT 3 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161971&extension=ts&play_token=WrtiO8Rizv
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| NET IP SELECT 4 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| NET IP SELECT 4 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161972&extension=ts&play_token=BUakxmnjtk
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| MAXCRO SELECT 1 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| MAXCRO SELECT 1 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161975&extension=ts&play_token=ryjgOsEfII
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| MAXCRO SELECT 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| MAXCRO SELECT 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161976&extension=ts&play_token=IoS440q5fQ
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| MAXCRO SELECT 3 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| MAXCRO SELECT 3 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161978&extension=ts&play_token=XUF6zOYrdm
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| MAXCRO SELECT KIDS HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| MAXCRO SELECT KIDS HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161980&extension=ts&play_token=0VnIItGM0j
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="HR| MAXCRO SELECT KIDS 2 HD" tvg-logo="" tvg-shift="0" group-title="SERVER 3", HR| MAXCRO SELECT KIDS 2 HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:8E:6A:D6&stream=161981&extension=ts&play_token=Tm979BXpQA
 
 
